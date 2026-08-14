@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T23:02:45Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660
+            "stars": 77654
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2021-09-23T14:22:25Z",
             "owner": "jhoffman",
             "repo": "cycada_release",
-            "stars": 568
+            "stars": 567
           }
         },
         {
@@ -3199,7 +3199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:41:53.498Z",
+    "last_updated": "2026-08-14T23:22:51.863Z",
     "original_repository": "zhaoxin94/awesome-domain-adaptation",
     "original_repository_sha": "5fb002e3520b24e2fb8cf8b3743c58ad99ef94cd",
     "enhanced_repository": "enhansome/enhansome-domain-adaptation",
