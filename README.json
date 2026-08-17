@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T02:25:39Z",
+            "last_commit": "2026-08-17T23:06:28Z",
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77653
@@ -2108,7 +2108,7 @@
             "last_commit": "2019-05-14T13:21:02Z",
             "owner": "liyiying",
             "repo": "Feature_Critic",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -3199,7 +3199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:20:24.789Z",
+    "last_updated": "2026-08-17T23:23:27.673Z",
     "original_repository": "zhaoxin94/awesome-domain-adaptation",
     "original_repository_sha": "5fb002e3520b24e2fb8cf8b3743c58ad99ef94cd",
     "enhanced_repository": "enhansome/enhansome-domain-adaptation",

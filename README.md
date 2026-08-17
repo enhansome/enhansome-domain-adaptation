@@ -129,7 +129,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Conference**
 
-* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [\[Tensorflow(Official)\]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) ⭐ 77,653 | 🐛 1,274 | 🌐 Python | 📅 2026-08-15 [\[Pytorch\]](https://github.com/vaibhavnaagar/pixelDA_GAN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2019-08-17
+* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [\[Tensorflow(Official)\]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) ⭐ 77,653 | 🐛 1,274 | 🌐 Python | 📅 2026-08-17 [\[Pytorch\]](https://github.com/vaibhavnaagar/pixelDA_GAN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2019-08-17
 * Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [\[CVPR2018\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf) [\[Pytorch(Official)\]](https://github.com/mil-tokyo/MCD_DA) ⭐ 575 | 🐛 27 | 🌐 Python | 📅 2022-10-07
 * CyCADA: Cycle-Consistent Adversarial Domain Adaptation [\[ICML2018\]](http://proceedings.mlr.press/v80/hoffman18a.html) [\[Pytorch(official)\]](https://github.com/jhoffman/cycada_release) ⭐ 567 | 🐛 15 | 🌐 Python | 📅 2021-09-23
 * Conditional Adversarial Domain Adaptation [\[NIPS2018\]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation) [\[Pytorch(official)\]](https://github.com/thuml/CDAN) ⭐ 419 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25  [\[Pytorch(third party)\]](https://github.com/thuml/CDAN) ⭐ 419 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25
@@ -816,7 +816,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 * Towards Recognizing Unseen Categories in Unseen Domains [\[ECCV2020\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680460.pdf) [\[Pytorch\]](https://github.com/mancinimassimiliano/CuMix) ⭐ 63 | 🐛 3 | 🌐 Python | 📅 2022-12-08
 * Episodic Training for Domain Generalization [\[ICCV2019 Oral\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Episodic_Training_for_Domain_Generalization_ICCV_2019_paper.pdf) \[Pytorch]]\(<https://github.com/HAHA-DL/Episodic-DG> ⭐ 57 | 🐛 6 | 🌐 Python | 📅 2023-07-06)
 * Learning to Balance Specificity and Invariance for In and Out of Domain Generalization [\[ECCV2020\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540290.pdf) [\[Pytorch\]](https://github.com/prithv1/DMG) ⭐ 56 | 🐛 2 | 🌐 Python | 📅 2020-08-24
-* Feature-Critic Networks for Heterogeneous Domain Generalization [\[ICML2019\]](http://proceedings.mlr.press/v97/li19l/li19l.pdf) [\[Pytorch\]](https://github.com/liyiying/Feature_Critic) ⭐ 54 | 🐛 9 | 🌐 Python | 📅 2019-05-14
+* Feature-Critic Networks for Heterogeneous Domain Generalization [\[ICML2019\]](http://proceedings.mlr.press/v97/li19l/li19l.pdf) [\[Pytorch\]](https://github.com/liyiying/Feature_Critic) ⭐ 55 | 🐛 9 | 🌐 Python | 📅 2019-05-14
 * Efficient Domain Generalization via Common-Specific Low-Rank Decomposition [\[ICML2020\]](https://proceedings.icml.cc/static/paper_files/icml/2020/4649-Paper.pdf) [\[Pytorch\]](https://github.com/vihari/csd) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2020-07-10
 * Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation [\[ECCV 2022\]](https://arxiv.org/pdf/2204.02548.pdf) [\[Pytorch\]](https://github.com/HeliosZhao/SHADE) ⭐ 48 | 🐛 1 | 🌐 Python | 📅 2022-09-28
 * Learning from Extrinsic and Intrinsic Supervisions for Domain Generalization [\[ECCV2020\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540154.pdf) [\[Pytorch\]](https://github.com/emma-sjwang/EISNet) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2022-06-22
@@ -1290,7 +1290,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 * [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,931 | 🐛 19 | 🌐 Python | 📅 2024-05-10
 * [Dassl: a PyTorch toolbox for domain adaptation and semi-supervised learning](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,428 | 🐛 29 | 🌐 Python | 📅 2023-11-03
 * [deep-transfer-learning: a PyTorch library for deep transfer learning](https://github.com/easezyc/deep-transfer-learning) ⭐ 961 | 🐛 7 | 🌐 Python | 📅 2022-03-03
-* [joliGEN: an integrated framework for training custom generative AI image-to-image models](https://github.com/jolibrain/joliGEN) ⭐ 288 | 🐛 38 | 🌐 Python | 📅 2026-08-11
+* [joliGEN: an integrated framework for training custom generative AI image-to-image models](https://github.com/jolibrain/joliGEN) ⭐ 288 | 🐛 39 | 🌐 Python | 📅 2026-08-17
 * [salad: a Semi-supervised Adaptive Learning Across Domains](https://domainadaptation.org/)
 
 # Lectures and Tutorials
@@ -1299,8 +1299,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 # Other Resources
 
-* [transferlearning](https://github.com/jindongwang/transferlearning) ⭐ 14,346 | 🐛 24 | 🌐 Python | 📅 2025-02-18
+* [transferlearning](https://github.com/jindongwang/transferlearning) ⭐ 14,349 | 🐛 24 | 🌐 Python | 📅 2025-02-18
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
