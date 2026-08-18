@@ -19,7 +19,7 @@
             "last_commit": "2026-08-17T23:06:28Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653
+            "stars": 77651
           }
         },
         {
@@ -687,7 +687,7 @@
             "last_commit": "2020-11-01T21:49:47Z",
             "owner": "kgl-prml",
             "repo": "Contrastive-Adaptation-Network-for-Unsupervised-Domain-Adaptation",
-            "stars": 348
+            "stars": 349
           }
         },
         {
@@ -3163,7 +3163,7 @@
             "last_commit": "2022-08-24T14:27:43Z",
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1173
+            "stars": 1172
           }
         },
         {
@@ -3199,7 +3199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:23:27.673Z",
+    "last_updated": "2026-08-18T23:22:55.838Z",
     "original_repository": "zhaoxin94/awesome-domain-adaptation",
     "original_repository_sha": "5fb002e3520b24e2fb8cf8b3743c58ad99ef94cd",
     "enhanced_repository": "enhansome/enhansome-domain-adaptation",
