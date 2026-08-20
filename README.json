@@ -38,10 +38,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-17T23:06:28Z",
+                    "last_commit": "2026-08-20T21:31:44Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77651
+                    "stars": 77647
                   }
                 },
                 {
@@ -1810,7 +1810,7 @@
                 "last_commit": "2020-02-04T01:03:23Z",
                 "owner": "hanzhaoml",
                 "repo": "MDAN",
-                "stars": 128
+                "stars": 129
               }
             },
             {
@@ -2454,7 +2454,7 @@
                     "last_commit": "2023-03-21T18:23:06Z",
                     "owner": "Luodian",
                     "repo": "Generalizable-Mixture-of-Experts",
-                    "stars": 275
+                    "stars": 274
                   }
                 },
                 {
@@ -2873,7 +2873,7 @@
                     "last_commit": "2023-11-14T14:17:37Z",
                     "owner": "CityU-AIM-Group",
                     "repo": "SIGMA",
-                    "stars": 172
+                    "stars": 173
                   }
                 },
                 {
@@ -3180,7 +3180,7 @@
                     "last_commit": "2024-08-10T16:20:06Z",
                     "owner": "lhoyer",
                     "repo": "MIC",
-                    "stars": 295
+                    "stars": 294
                   }
                 },
                 {
@@ -3240,7 +3240,7 @@
                     "last_commit": "2022-10-22T09:16:05Z",
                     "owner": "valeoai",
                     "repo": "xmuda",
-                    "stars": 203
+                    "stars": 202
                   }
                 },
                 {
@@ -3375,7 +3375,7 @@
                     "last_commit": "2024-07-23T03:57:21Z",
                     "owner": "chen742",
                     "repo": "PiPa",
-                    "stars": 100
+                    "stars": 99
                   }
                 },
                 {
@@ -3600,7 +3600,7 @@
                     "last_commit": "2023-11-30T12:11:36Z",
                     "owner": "BIT-DA",
                     "repo": "SePiCo",
-                    "stars": 121
+                    "stars": 120
                   }
                 },
                 {
@@ -4258,7 +4258,7 @@
             "last_commit": "2024-05-10T06:59:42Z",
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3931
+            "stars": 3930
           }
         },
         {
@@ -4311,7 +4311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:23:19.578Z",
+    "last_updated": "2026-08-20T23:26:37.990Z",
     "original_repository": "zhaoxin94/awesome-domain-adaptation",
     "original_repository_id": 133200031,
     "original_repository_sha": "5fb002e3520b24e2fb8cf8b3743c58ad99ef94cd",
