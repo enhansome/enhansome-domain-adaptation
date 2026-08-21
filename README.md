@@ -129,7 +129,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Conference**
 
-* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [\[Tensorflow(Official)\]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) ⭐ 77,647 | 🐛 1,275 | 🌐 Python | 📅 2026-08-20 [\[Pytorch\]](https://github.com/vaibhavnaagar/pixelDA_GAN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2019-08-17
+* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [\[Tensorflow(Official)\]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) ⭐ 77,648 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21 [\[Pytorch\]](https://github.com/vaibhavnaagar/pixelDA_GAN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2019-08-17
 * Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [\[CVPR2018\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf) [\[Pytorch(Official)\]](https://github.com/mil-tokyo/MCD_DA) ⭐ 575 | 🐛 27 | 🌐 Python | 📅 2022-10-07
 * CyCADA: Cycle-Consistent Adversarial Domain Adaptation [\[ICML2018\]](http://proceedings.mlr.press/v80/hoffman18a.html) [\[Pytorch(official)\]](https://github.com/jhoffman/cycada_release) ⭐ 567 | 🐛 15 | 🌐 Python | 📅 2021-09-23
 * Conditional Adversarial Domain Adaptation [\[NIPS2018\]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation) [\[Pytorch(official)\]](https://github.com/thuml/CDAN) ⭐ 419 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25  [\[Pytorch(third party)\]](https://github.com/thuml/CDAN) ⭐ 419 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25
@@ -335,7 +335,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 * Towards Discriminability and Diversity: Batch Nuclear-norm Maximization under Label Insufficient Situations [\[CVPR2020 Oral\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cui_Towards_Discriminability_and_Diversity_Batch_Nuclear-Norm_Maximization_Under_Label_Insufficient_CVPR_2020_paper.pdf) [\[Pytorch\]](https://github.com/cuishuhao/BNM) ⭐ 269 | 🐛 13 | 🌐 Python | 📅 2023-10-03
 * Confidence Regularized Self-Training [\[ICCV2019 Oral\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zou_Confidence_Regularized_Self-Training_ICCV_2019_paper.pdf) [\[Pytorch\]](https://github.com/yzou2/CRST) ⭐ 238 | 🐛 13 | 🌐 Python | 📅 2020-07-23
 * Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation [\[ICCV2019\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Larger_Norm_More_Transferable_An_Adaptive_Feature_Norm_Approach_for_ICCV_2019_paper.pdf) [\[Pytorch(official)\]](https://github.com/jihanyang/AFN) ⭐ 186 | 🐛 5 | 🌐 Python | 📅 2019-10-24
-* Domain Specific Batch Normalization for Unsupervised Domain Adaptation [\[CVPR2019\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Domain-Specific_Batch_Normalization_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf) [\[Pytorch\]](https://github.com/wgchang/DSBN) ⭐ 160 | 🐛 0 | 🌐 Python | 📅 2023-11-02
+* Domain Specific Batch Normalization for Unsupervised Domain Adaptation [\[CVPR2019\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Domain-Specific_Batch_Normalization_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf) [\[Pytorch\]](https://github.com/wgchang/DSBN) ⭐ 161 | 🐛 0 | 🌐 Python | 📅 2023-11-02
 * Associative Domain Adaptation [\[ICCV2017\]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Haeusser_Associative_Domain_Adaptation_ICCV_2017_paper.pdf) [\[TensorFlow\]](https://github.com/haeusser/learning_by_association) ⭐ 151 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2017-10-28 [\[Pytorch\]](https://github.com/corenel/pytorch-atda) ⭐ 45 | 🐛 4 | 🌐 Python | 📅 2017-09-05
 * Switchable Whitening for Deep Representation Learning [\[ICCV2019\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Pan_Switchable_Whitening_for_Deep_Representation_Learning_ICCV_2019_paper.pdf) [\[pytorch\]](https://github.com/XingangPan/Switchable-Whitening) ⭐ 137 | 🐛 5 | 🌐 Python | 📅 2019-12-18
 * Visualizing Adapted Knowledge in Domain Transfer [\[CVPR2021\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Visualizing_Adapted_Knowledge_in_Domain_Transfer_CVPR_2021_paper.pdf) [\[Pytorch\]](https://github.com/hou-yz/DA_visualization) ⭐ 98 | 🐛 0 | 🌐 Python | 📅 2022-03-18
@@ -558,7 +558,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 **Conference**
 
 * Separate to Adapt: Open Set Domain Adaptation via Progressive Separation [\[CVPR2019\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Separate_to_Adapt_Open_Set_Domain_Adaptation_via_Progressive_Separation_CVPR_2019_paper.pdf) [\[Pytorch\]](https://github.com/thuml/Separate_to_Adapt) ⭐ 62 | 🐛 5 | 🌐 Python | 📅 2019-08-07
-* Open Set Domain Adaptation by Backpropagation [\[ECCV2018\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf) [\[Pytorch(Official)\]](https://github.com/ksaito-ut/OPDA_BP) ⭐ 59 | 🐛 5 | 🌐 Python | 📅 2019-04-04 [\[Tensorflow\]](https://github.com/Mid-Push/Open_set_domain_adaptation) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2019-03-03 [\[Pytorch\]](https://github.com/YU1ut/openset-DA) ⭐ 79 | 🐛 6 | 🌐 Python | 📅 2018-11-12
+* Open Set Domain Adaptation by Backpropagation [\[ECCV2018\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.pdf) [\[Pytorch(Official)\]](https://github.com/ksaito-ut/OPDA_BP) ⭐ 60 | 🐛 5 | 🌐 Python | 📅 2019-04-04 [\[Tensorflow\]](https://github.com/Mid-Push/Open_set_domain_adaptation) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2019-03-03 [\[Pytorch\]](https://github.com/YU1ut/openset-DA) ⭐ 79 | 🐛 6 | 🌐 Python | 📅 2018-11-12
 * On the Effectiveness of Image Rotation for Open Set Domain Adaptation [\[ECCV2020\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610409.pdf) [\[Pytorch\]](https://github.com/silvia1993/ROS) ⭐ 41 | 🐛 3 | 🌐 Python | 📅 2023-03-24
 * Attract or Distract: Exploit the Margin of Open Set [\[ICCV2019\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Feng_Attract_or_Distract_Exploit_the_Margin_of_Open_Set_ICCV_2019_paper.pdf) [\[code\]](https://github.com/qy-feng/margin-openset) ⭐ 35 | 🐛 4 | 🌐 Python | 📅 2020-12-19
 * Progressive Graph Learning for Open-Set Domain Adaptation [\[ICML2020\]](https://proceedings.icml.cc/static/paper_files/icml/2020/136-Paper.pdf) [\[Pytorch\]](https://github.com/BUserName/PGL) ⭐ 34 | 🐛 2 | 🌐 Python | 📅 2023-06-19
@@ -1299,8 +1299,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 # Other Resources
 
-* [transferlearning](https://github.com/jindongwang/transferlearning) ⭐ 14,349 | 🐛 24 | 🌐 Python | 📅 2025-02-18
+* [transferlearning](https://github.com/jindongwang/transferlearning) ⭐ 14,348 | 🐛 24 | 🌐 Python | 📅 2025-02-18
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
