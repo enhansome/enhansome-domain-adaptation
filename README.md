@@ -129,7 +129,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Conference**
 
-* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [\[Tensorflow(Official)\]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) ⭐ 77,648 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21 [\[Pytorch\]](https://github.com/vaibhavnaagar/pixelDA_GAN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2019-08-17
+* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [\[Tensorflow(Official)\]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) ⭐ 77,649 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21 [\[Pytorch\]](https://github.com/vaibhavnaagar/pixelDA_GAN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2019-08-17
 * Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [\[CVPR2018\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf) [\[Pytorch(Official)\]](https://github.com/mil-tokyo/MCD_DA) ⭐ 575 | 🐛 27 | 🌐 Python | 📅 2022-10-07
 * CyCADA: Cycle-Consistent Adversarial Domain Adaptation [\[ICML2018\]](http://proceedings.mlr.press/v80/hoffman18a.html) [\[Pytorch(official)\]](https://github.com/jhoffman/cycada_release) ⭐ 567 | 🐛 15 | 🌐 Python | 📅 2021-09-23
 * Conditional Adversarial Domain Adaptation [\[NIPS2018\]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation) [\[Pytorch(official)\]](https://github.com/thuml/CDAN) ⭐ 419 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25  [\[Pytorch(third party)\]](https://github.com/thuml/CDAN) ⭐ 419 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25
@@ -1287,7 +1287,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 # Library
 
-* [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,930 | 🐛 19 | 🌐 Python | 📅 2024-05-10
+* [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,931 | 🐛 19 | 🌐 Python | 📅 2024-05-10
 * [Dassl: a PyTorch toolbox for domain adaptation and semi-supervised learning](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,428 | 🐛 29 | 🌐 Python | 📅 2023-11-03
 * [deep-transfer-learning: a PyTorch library for deep transfer learning](https://github.com/easezyc/deep-transfer-learning) ⭐ 961 | 🐛 7 | 🌐 Python | 📅 2022-03-03
 * [joliGEN: an integrated framework for training custom generative AI image-to-image models](https://github.com/jolibrain/joliGEN) ⭐ 288 | 🐛 38 | 🌐 Python | 📅 2026-08-19
@@ -1303,4 +1303,4 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
