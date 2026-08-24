@@ -112,8 +112,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Journal**
 
-* On a Regularization of Unsupervised Domain Adaptation in RKHS [\[ACHA2021\]](https://www.sciencedirect.com/science/article/abs/pii/S1063520321001032?via%3Dihub)
 * Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice [\[TPAMI2020\]](https://arxiv.org/abs/2002.08681) [\[PyTroch\]](https://github.com/YBZh/MultiClassDA) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2021-04-14
+* On a Regularization of Unsupervised Domain Adaptation in RKHS [\[ACHA2021\]](https://www.sciencedirect.com/science/article/abs/pii/S1063520321001032?via%3Dihub)
 * On generalization in moment-based domain adaptation [\[AMAI2020\]](https://link.springer.com/article/10.1007/s10472-020-09719-x)
 * A theory of learning from different domains [\[ML2010\]](https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5152-4.pdf)
 
@@ -129,7 +129,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Conference**
 
-* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [\[Tensorflow(Official)\]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) ⭐ 77,649 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21 [\[Pytorch\]](https://github.com/vaibhavnaagar/pixelDA_GAN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2019-08-17
+* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [\[Tensorflow(Official)\]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) ⭐ 77,648 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21 [\[Pytorch\]](https://github.com/vaibhavnaagar/pixelDA_GAN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2019-08-17
 * Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [\[CVPR2018\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf) [\[Pytorch(Official)\]](https://github.com/mil-tokyo/MCD_DA) ⭐ 575 | 🐛 27 | 🌐 Python | 📅 2022-10-07
 * CyCADA: Cycle-Consistent Adversarial Domain Adaptation [\[ICML2018\]](http://proceedings.mlr.press/v80/hoffman18a.html) [\[Pytorch(official)\]](https://github.com/jhoffman/cycada_release) ⭐ 567 | 🐛 15 | 🌐 Python | 📅 2021-09-23
 * Conditional Adversarial Domain Adaptation [\[NIPS2018\]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation) [\[Pytorch(official)\]](https://github.com/thuml/CDAN) ⭐ 419 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25  [\[Pytorch(third party)\]](https://github.com/thuml/CDAN) ⭐ 419 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25
@@ -205,8 +205,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Journal**
 
-* Incremental Unsupervised Domain-Adversarial Training of Neural Networks [\[TNNLS 2020\]](https://ieeexplore.ieee.org/document/9216604)
 * Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice [\[TPAMI2020\]](https://arxiv.org/abs/2002.08681) [\[PyTroch\]](https://github.com/YBZh/MultiClassDA) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2021-04-14
+* Incremental Unsupervised Domain-Adversarial Training of Neural Networks [\[TNNLS 2020\]](https://ieeexplore.ieee.org/document/9216604)
 * Adversarial Learning and Interpolation Consistency for Unsupervised Domain Adaptation [\[IEEE ACCESS\]](https://ieeexplore.ieee.org/document/8913529)
 * TarGAN: Generating target data with class labels for unsupervised domain adaptation [\[Knowledge-Based Systems\]]()
 
@@ -292,8 +292,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 ### Semi-Supervised-Learning-Based Methods
 
-* Label Propagation with Augmented Anchors: A Simple Semi-Supervised Learning baseline for Unsupervised Domain Adaptation [\[ECCV2020\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490749.pdf)
 * Semi-supervised Models are Strong Unsupervised Domain Adaptation Learners [\[arXiv 2021\]](\(https://arxiv.org/pdf/2106.00417.pdf\))[\[Pytorch\]](https://github.com/YBZh/Bridging_UDA_SSL) ⭐ 37 | 🐛 1 | 🌐 Python | 📅 2022-04-21
+* Label Propagation with Augmented Anchors: A Simple Semi-Supervised Learning baseline for Unsupervised Domain Adaptation [\[ECCV2020\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490749.pdf)
 
 ### Self-training-Based Methods
 
@@ -548,8 +548,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Arxiv**
 
-* Select, Label, and Mix: Learning Discriminative Invariant Feature Representations for Partial Domain Adaptation [\[arXiv 06 Dec 2020\]](https://arxiv.org/abs/2012.03358)
 * Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice [\[20 Feb 2020\]](https://arxiv.org/pdf/2002.08681.pdf) [\[PyTroch\]](https://github.com/YBZh/MultiClassDA) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2021-04-14
+* Select, Label, and Mix: Learning Discriminative Invariant Feature Representations for Partial Domain Adaptation [\[arXiv 06 Dec 2020\]](https://arxiv.org/abs/2012.03358)
 * Tackling Partial Domain Adaptation with Self-Supervision [\[arXiv 12 Jun 2019\]](https://arxiv.org/abs/1906.05199v1)
 * Domain Adversarial Reinforcement Learning for Partial Domain Adaptation [\[arXiv 10 May 2019\]](https://arxiv.org/abs/1905.04094v1)
 
@@ -614,8 +614,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Conference**
 
-* Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation [\[NeurIPS2020\]](https://proceedings.neurips.cc/paper/2020/file/7a9a322cbe0d06a98667fdc5160dc6f8-Paper.pdf)
 * Open Compound Domain Adaptation [\[CVRP2020 Oral\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Open_Compound_Domain_Adaptation_CVPR_2020_paper.pdf) [\[Pytorch\]](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA) ⭐ 142 | 🐛 8 | 🌐 Python | 📅 2021-09-19
+* Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation [\[NeurIPS2020\]](https://proceedings.neurips.cc/paper/2020/file/7a9a322cbe0d06a98667fdc5160dc6f8-Paper.pdf)
 
 **Journal**
 
@@ -687,12 +687,12 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Conference**
 
+* Learning to Adapt to Evolving Domains [\[NeurIPS 2020\]](https://proceedings.neurips.cc/paper/2020/file/fd69dbe29f156a7ef876a40a94f65599-Paper.pdf) [\[Pytorch\]](https://github.com/Liuhong99/EAML) ⭐ 32 | 🐛 3 | 🌐 Python | 📅 2021-07-21
 * Lifelong Domain Adaptation via Consolidated Internal Distribution [\[NeurIPS2021\]](https://proceedings.neurips.cc/paper/2021/hash/5caf41d62364d5b41a893adc1a9dd5d4-Abstract.html)
 * Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning [\[CVPR2021\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Volpi_Continual_Adaptation_of_Visual_Representations_via_Domain_Randomization_and_Meta-Learning_CVPR_2021_paper.pdf)
 * ConDA: Continual Unsupervised Domain Adaptation [\[CVPR2021\]](https://arxiv.org/abs/2103.11056v1)
 * Gradient Regularized Contrastive Learning for Continual Domain Adaptation [\[AAAI2021\]](https://arxiv.org/abs/2103.12294v1)
 * Gradual Domain Adaptation without Indexed Intermediate Domains [\[NeurIPS2021\]](https://proceedings.neurips.cc/paper/2021/hash/45017f6511f91be700fda3d118034994-Abstract.html)
-* Learning to Adapt to Evolving Domains [\[NeurIPS 2020\]](https://proceedings.neurips.cc/paper/2020/file/fd69dbe29f156a7ef876a40a94f65599-Paper.pdf) [\[Pytorch\]](https://github.com/Liuhong99/EAML) ⭐ 32 | 🐛 3 | 🌐 Python | 📅 2021-07-21
 * Class-Incremental Domain Adaptation [\[ECCV2020\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580052.pdf)
 * Incremental Adversarial Domain Adaptation for Continually Changing Environments [\[ICRA2018\]](https://arxiv.org/abs/1712.07436)
 * Continuous Manifold based Adaptation for Evolving Visual Domains [\[CVPR2014\]](https://people.eecs.berkeley.edu/~jhoffman/papers/Hoffman_CVPR2014.pdf)
@@ -846,8 +846,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Journal**
 
-* Domain Generalization for Regression [\[IntellManuf2020\]](https://link.springer.com/article/10.1007/s10845-019-01499-4)
 * Correlation-aware Adversarial Domain Adaptation and Generalization [\[Pattern Recognition(2019)\]](https://arxiv.org/abs/1911.12983v1) [\[code\]](https://github.com/mahfujur1/CA-DA-DG) ⭐ 5 | 🐛 1 | 📅 2019-12-09
+* Domain Generalization for Regression [\[IntellManuf2020\]](https://link.springer.com/article/10.1007/s10845-019-01499-4)
 
 **Arxiv**
 
@@ -879,10 +879,10 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Conference**
 
+* Unsupervised Open Domain Recognition by Semantic Discrepancy Minimization [\[CVPR2019\]](https://arxiv.org/abs/1904.08631) [\[Pytorch\]](https://github.com/junbaoZHUO/UODTN) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2021-03-04
 * Learning Across Tasks and Domains [\[ICCV2019\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ramirez_Learning_Across_Tasks_and_Domains_ICCV_2019_paper.pdf)
 * UM-Adapt: Unsupervised Multi-Task Adaptation Using Adversarial Cross-Task Distillation [\[ICCV2019\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kundu_UM-Adapt_Unsupervised_Multi-Task_Adaptation_Using_Adversarial_Cross-Task_Distillation_ICCV_2019_paper.pdf)
 * Domain Agnostic Learning with Disentangled Representations [\[ICML2019\]](https://arxiv.org/abs/1904.12347v1)
-* Unsupervised Open Domain Recognition by Semantic Discrepancy Minimization [\[CVPR2019\]](https://arxiv.org/abs/1904.08631) [\[Pytorch\]](https://github.com/junbaoZHUO/UODTN) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2021-03-04
 
 **Arxiv**
 
@@ -1113,11 +1113,11 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Arxiv**
 
+* EANet: Enhancing Alignment for Cross-Domain Person Re-identification [\[arXiv 29 Dec 2018\]](https://arxiv.org/abs/1812.11369) [\[Pytorch\]](https://github.com/huanghoujing/EANet) ⭐ 398 | 🐛 27 | 🌐 Python | 📅 2020-12-29
 * Domain Adaptation for Semantic Segmentation via Patch-Wise Contrastive Learning [\[arXiv 22 Apr 2021\]](https://arxiv.org/abs/2104.11056)
 * Structured Domain Adaptation for Unsupervised Person Re-identification [\[arXiv 14 Mar 2020\]](https://arxiv.org/abs/2003.06650)
 * Domain Adaptive Attention Model for Unsupervised Cross-Domain Person Re-Identification [\[arXiv 25 May 2019\]](https://arxiv.org/abs/1905.10529)
 * Camera Adversarial Transfer for Unsupervised Person Re-Identification [\[arXiv 2 Apr 2019\]](https://arxiv.org/abs/1904.01308)
-* EANet: Enhancing Alignment for Cross-Domain Person Re-identification [\[arXiv 29 Dec 2018\]](https://arxiv.org/abs/1812.11369) [\[Pytorch\]](https://github.com/huanghoujing/EANet) ⭐ 398 | 🐛 27 | 🌐 Python | 📅 2020-12-29
 * One Shot Domain Adaptation for Person Re-Identification [\[arXiv 26 Nov 2018\]](https://arxiv.org/abs/1811.10144v1)
 * Similarity-preserving Image-image Domain Adaptation for Person Re-identification [\[arXiv 26 Nov 2018\]](https://arxiv.org/abs/1811.10551v1)
 
@@ -1303,4 +1303,4 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

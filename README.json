@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Video Unsupervised Domain Adaptation with Deep Learning: A Comprehensive Survey [17 Nov 2022]",
+              "description": "[project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 506157605,
+                "language": null,
+                "last_commit": "2025-01-18T05:21:20Z",
+                "owner": "xuyu0010",
+                "repo": "awesome-video-domain-adaptation",
+                "stars": 115
+              }
+            }
+          ],
+          "description": "Arxiv\nJournal",
+          "node_type": "group",
+          "title": "Survey"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Bridging Theory and Algorithm for Domain Adaptation [ICML2019]",
               "description": "[Pytorch]",
               "children": [],
@@ -19,11 +41,48 @@
                 "repo": "MDD",
                 "stars": 143
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice [TPAMI2020]",
+              "description": "[PyTroch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238469613,
+                "language": "Python",
+                "last_commit": "2021-04-14T12:10:18Z",
+                "owner": "Gorilla-Lab-SCUT",
+                "repo": "MultiClassDA",
+                "stars": 74
+              }
             }
           ],
           "description": "Arxiv\nConference\nJournal",
           "node_type": "group",
           "title": "Theory"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Visualizing Adapted Knowledge in Domain Transfer [CVPR2021]",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 352535620,
+                "language": "Python",
+                "last_commit": "2022-03-18T05:14:36Z",
+                "owner": "hou-yz",
+                "repo": "DA_visualization",
+                "stars": 98
+              }
+            }
+          ],
+          "description": "Conference",
+          "node_type": "group",
+          "title": "Explainable"
         },
         {
           "children": [
@@ -41,7 +100,7 @@
                     "last_commit": "2026-08-21T16:27:30Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77649
+                    "stars": 77648
                   }
                 },
                 {
@@ -556,6 +615,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice [TPAMI2020]",
+                  "description": "[PyTroch]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 238469613,
+                    "language": "Python",
+                    "last_commit": "2021-04-14T12:10:18Z",
+                    "owner": "Gorilla-Lab-SCUT",
+                    "repo": "MultiClassDA",
+                    "stars": 74
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [arXiv 6 Jul 2018]",
                   "description": "[Pytorch(official)]",
                   "children": [],
@@ -782,6 +856,28 @@
               "description": "Conference\nArxiv",
               "node_type": "group",
               "title": "Optimal Transport"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Semi-supervised Models are Strong Unsupervised Domain Adaptation Learners [arXiv 2021]",
+                  "description": "[Pytorch]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 372692638,
+                    "language": "Python",
+                    "last_commit": "2022-04-21T07:09:39Z",
+                    "owner": "YBZh",
+                    "repo": "Bridging_UDA_SSL",
+                    "stars": 37
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Semi-Supervised-Learning-Based Methods"
             },
             {
               "children": [
@@ -1296,6 +1392,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Target-Independent Domain Adaptation for WBC Classification using Generative Latent Search [IEEE TMI 2020]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 262608146,
+                    "language": "Python",
+                    "last_commit": "2020-05-17T00:31:53Z",
+                    "owner": "prinshul",
+                    "repo": "WBC-Classification-UDA",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "Virtual Mixup Training for Unsupervised Domain Adaptation [arXiv on 24 May 2019]",
                   "description": "[Tensorflow]",
                   "children": [],
@@ -1417,11 +1528,70 @@
                 "repo": "STar-framework",
                 "stars": 8
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Context-guided entropy minimization for semi-supervised domain adaptation [Neural Networks]",
+              "description": "[pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 545493473,
+                "language": "Python",
+                "last_commit": "2022-10-04T14:17:04Z",
+                "owner": "NingMa-AI",
+                "repo": "DEEM",
+                "stars": 1
+              }
             }
           ],
           "description": "Conference\nJournal\nArxiv",
           "node_type": "group",
           "title": "Semi-supervised DA"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Adversarial Style Mining for One-Shot Unsupervised Domain Adaptation [NeurIPS2020]",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306415186,
+                "language": "Python",
+                "last_commit": "2021-07-15T07:50:13Z",
+                "owner": "RoyalVane",
+                "repo": "ASM",
+                "stars": 70
+              }
+            }
+          ],
+          "description": "Conference\nArxiv",
+          "node_type": "group",
+          "title": "One-shot DA"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation [CVPR2021]",
+              "description": "[Pytorch] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353560811,
+                "language": "Python",
+                "last_commit": "2021-06-24T16:51:13Z",
+                "owner": "zhengzangw",
+                "repo": "PCS-FUDA",
+                "stars": 110
+              }
+            }
+          ],
+          "description": "Conference\nArxiv",
+          "node_type": "group",
+          "title": "Few-shot UDA"
         },
         {
           "children": [
@@ -1580,6 +1750,36 @@
                 "owner": "LearnableVW",
                 "repo": "Implicit-Semantic-Response-Alignment",
                 "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice [TPAMI2020]",
+              "description": "[PyTroch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238469613,
+                "language": "Python",
+                "last_commit": "2021-04-14T12:10:18Z",
+                "owner": "Gorilla-Lab-SCUT",
+                "repo": "MultiClassDA",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice [20 Feb 2020]",
+              "description": "[PyTroch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238469613,
+                "language": "Python",
+                "last_commit": "2021-04-14T12:10:18Z",
+                "owner": "Gorilla-Lab-SCUT",
+                "repo": "MultiClassDA",
+                "stars": 74
               }
             }
           ],
@@ -1770,6 +1970,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Open Compound Domain Adaptation [CVRP2020 Oral]",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250958880,
+                "language": "Python",
+                "last_commit": "2021-09-19T07:16:36Z",
+                "owner": "zhmiao",
+                "repo": "OpenCompoundDomainAdaptation-OCDA",
+                "stars": 142
+              }
+            }
+          ],
+          "description": "Conference\nJournal",
+          "node_type": "group",
+          "title": "Open Compound DA"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [ICCV Workshop 2021]",
               "description": "[Pytorch]",
               "children": [],
@@ -1932,6 +2154,21 @@
                 "repo": "latent_domains_DA",
                 "stars": 23
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Graphical Modeling for Multi-Source Domain Adaptation [TPAMI 2022]",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 503644644,
+                "language": null,
+                "last_commit": "2022-11-14T07:19:58Z",
+                "owner": "Francis0625",
+                "repo": "Graphical-Modeling-for-Multi-Source-Domain-Adaptation",
+                "stars": 7
+              }
             }
           ],
           "description": "Conference\nJournal\nArxiv",
@@ -1994,6 +2231,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Learning to Adapt to Evolving Domains [NeurIPS 2020]",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304875383,
+                "language": "Python",
+                "last_commit": "2021-07-21T15:34:50Z",
+                "owner": "Liuhong99",
+                "repo": "EAML",
+                "stars": 32
+              }
+            }
+          ],
+          "description": "Conference",
+          "node_type": "group",
+          "title": "Incremental DA"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Domain Agnostic Learning with Disentangled Representations [ICML2019]",
               "description": "[Pytorch]",
               "children": [],
@@ -2026,6 +2285,28 @@
           "description": "Arxiv\nConference",
           "node_type": "group",
           "title": "Target-agnostic DA"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Continuously Indexed Domain Adaptation [ICML 2020]",
+              "description": "[Pytorch] [Project Page] [Video]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290687212,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-09-03T18:31:08Z",
+                "owner": "hehaodele",
+                "repo": "CIDA",
+                "stars": 123
+              }
+            }
+          ],
+          "description": "Conference",
+          "node_type": "group",
+          "title": "Continuously Indexed DA"
         },
         {
           "children": [
@@ -2816,11 +3097,48 @@
                     "repo": "M-ADA",
                     "stars": 1
                   }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Correlation-aware Adversarial Domain Adaptation and Generalization [Pattern Recognition(2019)]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 226923105,
+                    "language": null,
+                    "last_commit": "2019-12-09T17:21:50Z",
+                    "owner": "mahfujur1",
+                    "repo": "CA-DA-DG",
+                    "stars": 5
+                  }
                 }
               ],
               "description": "Conference\nJournal\nArxiv",
               "node_type": "group",
               "title": "Domain Generalization"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Unsupervised Open Domain Recognition by Semantic Discrepancy Minimization [CVPR2019]",
+                  "description": "[Pytorch]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 178657264,
+                    "language": "Python",
+                    "last_commit": "2021-03-04T08:58:58Z",
+                    "owner": "junbaoZHUO",
+                    "repo": "UODTN",
+                    "stars": 45
+                  }
+                }
+              ],
+              "description": "Conference\nArxiv",
+              "node_type": "group",
+              "title": "Others"
             }
           ],
           "description": null,
@@ -3774,6 +4092,21 @@
                     "repo": "Foreground-Background-Augmentation",
                     "stars": 9
                   }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EANet: Enhancing Alignment for Cross-Domain Person Re-identification [arXiv 29 Dec 2018]",
+                  "description": "[Pytorch]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 163517857,
+                    "language": "Python",
+                    "last_commit": "2020-12-29T03:20:09Z",
+                    "owner": "huanghoujing",
+                    "repo": "EANet",
+                    "stars": 398
+                  }
                 }
               ],
               "description": "Conference\nArxiv",
@@ -3926,6 +4259,21 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet [Neurocomputing 2021]",
+                  "description": "[Pytorch]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 391052310,
+                    "language": "Python",
+                    "last_commit": "2023-02-18T07:01:18Z",
+                    "owner": "bupt-ai-cz",
+                    "repo": "CAC-UNet-DigestPath2019",
+                    "stars": 98
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "On-the-Fly Test-time Adaptation for Medical Image Segmentation [10 Mar 2022]",
                   "description": "[Pytorch]",
                   "children": [],
@@ -3958,6 +4306,50 @@
               "description": "Conference\nJournal\nArxiv",
               "node_type": "group",
               "title": "Medical Related"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MS3D++: Ensemble of Experts for Multi-Source Unsupervised Domain Adaptation in 3D Object Detection [Arxiv 11 Aug 2023]",
+                  "description": "[Pytorch]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 623824358,
+                    "language": "Python",
+                    "last_commit": "2024-08-15T13:32:09Z",
+                    "owner": "darrenjkt",
+                    "repo": "MS3D",
+                    "stars": 204
+                  }
+                }
+              ],
+              "description": "Conference\nArxiv",
+              "node_type": "group",
+              "title": "3D"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Progressive Adversarial Networks for Fine-Grained Domain Adaptation [CVPR2020]",
+                  "description": "[Pytorch]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 277428377,
+                    "language": "Python",
+                    "last_commit": "2020-07-06T15:41:02Z",
+                    "owner": "thuml",
+                    "repo": "PAN",
+                    "stars": 16
+                  }
+                }
+              ],
+              "description": "Conference",
+              "node_type": "group",
+              "title": "Fine-Grained Domain"
             },
             {
               "children": [
@@ -4311,7 +4703,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:21:46.356Z",
+    "last_updated": "2026-08-24T13:56:18.198Z",
     "original_repository": "zhaoxin94/awesome-domain-adaptation",
     "original_repository_id": 133200031,
     "original_repository_sha": "5fb002e3520b24e2fb8cf8b3743c58ad99ef94cd",
