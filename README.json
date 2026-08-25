@@ -97,10 +97,10 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-21T16:27:30Z",
+                    "last_commit": "2026-08-25T21:25:59Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648
+                    "stars": 77650
                   }
                 },
                 {
@@ -355,7 +355,7 @@
                     "last_commit": "2019-07-23T06:44:05Z",
                     "owner": "thuml",
                     "repo": "Batch-Spectral-Penalization",
-                    "stars": 92
+                    "stars": 93
                   }
                 },
                 {
@@ -2945,7 +2945,7 @@
                     "last_commit": "2023-03-17T22:05:31Z",
                     "owner": "n3il666",
                     "repo": "Meta-DMoE",
-                    "stars": 43
+                    "stars": 44
                   }
                 },
                 {
@@ -4692,7 +4692,7 @@
             "archived": false,
             "id": 288411806,
             "language": "Python",
-            "last_commit": "2026-08-19T08:39:14Z",
+            "last_commit": "2026-08-25T12:34:25Z",
             "owner": "jolibrain",
             "repo": "joliGEN",
             "stars": 288
@@ -4703,7 +4703,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:48:42.185Z",
+    "last_updated": "2026-08-25T23:25:38.134Z",
     "original_repository": "zhaoxin94/awesome-domain-adaptation",
     "original_repository_id": 133200031,
     "original_repository_sha": "5fb002e3520b24e2fb8cf8b3743c58ad99ef94cd",
