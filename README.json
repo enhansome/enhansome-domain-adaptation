@@ -100,7 +100,7 @@
                     "last_commit": "2026-08-25T21:25:59Z",
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77650
+                    "stars": 77653
                   }
                 },
                 {
@@ -3438,7 +3438,7 @@
                     "last_commit": "2024-08-10T16:20:43Z",
                     "owner": "lhoyer",
                     "repo": "DAFormer",
-                    "stars": 573
+                    "stars": 574
                   }
                 },
                 {
@@ -3498,7 +3498,7 @@
                     "last_commit": "2024-08-10T16:20:06Z",
                     "owner": "lhoyer",
                     "repo": "MIC",
-                    "stars": 294
+                    "stars": 295
                   }
                 },
                 {
@@ -4321,7 +4321,7 @@
                     "last_commit": "2024-08-15T13:32:09Z",
                     "owner": "darrenjkt",
                     "repo": "MS3D",
-                    "stars": 204
+                    "stars": 205
                   }
                 }
               ],
@@ -4594,7 +4594,7 @@
                 "last_commit": "2022-08-24T14:27:43Z",
                 "owner": "hendrycks",
                 "repo": "robustness",
-                "stars": 1171
+                "stars": 1172
               }
             },
             {
@@ -4609,7 +4609,7 @@
                 "last_commit": "2025-08-09T14:08:25Z",
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 840
+                "stars": 841
               }
             },
             {
@@ -4692,7 +4692,7 @@
             "archived": false,
             "id": 288411806,
             "language": "Python",
-            "last_commit": "2026-08-25T12:34:25Z",
+            "last_commit": "2026-08-26T13:04:39Z",
             "owner": "jolibrain",
             "repo": "joliGEN",
             "stars": 288
@@ -4703,7 +4703,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:25:38.134Z",
+    "last_updated": "2026-08-27T04:20:52.131Z",
     "original_repository": "zhaoxin94/awesome-domain-adaptation",
     "original_repository_id": 133200031,
     "original_repository_sha": "5fb002e3520b24e2fb8cf8b3743c58ad99ef94cd",
