@@ -97,7 +97,7 @@
                     "archived": false,
                     "id": 51117837,
                     "language": "Python",
-                    "last_commit": "2026-08-25T21:25:59Z",
+                    "last_commit": "2026-08-27T04:28:47Z",
                     "owner": "tensorflow",
                     "repo": "models",
                     "stars": 77653
@@ -1177,7 +1177,7 @@
                     "last_commit": "2019-12-11T09:37:43Z",
                     "owner": "pmorerio",
                     "repo": "minimal-entropy-correlation-alignment",
-                    "stars": 64
+                    "stars": 65
                   }
                 },
                 {
@@ -4609,7 +4609,7 @@
                 "last_commit": "2025-08-09T14:08:25Z",
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 841
+                "stars": 842
               }
             },
             {
@@ -4650,7 +4650,7 @@
             "last_commit": "2024-05-10T06:59:42Z",
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3931
+            "stars": 3932
           }
         },
         {
@@ -4692,7 +4692,7 @@
             "archived": false,
             "id": 288411806,
             "language": "Python",
-            "last_commit": "2026-08-26T13:04:39Z",
+            "last_commit": "2026-08-27T09:41:29Z",
             "owner": "jolibrain",
             "repo": "joliGEN",
             "stars": 288
@@ -4703,9 +4703,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:20:52.131Z",
-    "original_repository": "zhaoxin94/awesome-domain-adaptation",
-    "original_repository_id": 133200031,
+    "last_updated": "2026-08-27T11:39:12.419Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 133200031,
+      "language": null,
+      "last_commit": "2025-12-08T06:04:32Z",
+      "owner": "zhaoxin94",
+      "repo": "awesome-domain-adaptation",
+      "stars": 5456
+    },
     "original_repository_sha": "5fb002e3520b24e2fb8cf8b3743c58ad99ef94cd",
     "enhanced_repository": "enhansome/enhansome-domain-adaptation",
     "enhanced_repository_description": null,
