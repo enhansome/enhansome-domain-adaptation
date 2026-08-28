@@ -129,10 +129,10 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Conference**
 
-* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [\[Tensorflow(Official)\]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) ⭐ 77,653 | 🐛 1,271 | 🌐 Python | 📅 2026-08-27 [\[Pytorch\]](https://github.com/vaibhavnaagar/pixelDA_GAN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2019-08-17
+* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [\[Tensorflow(Official)\]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) ⭐ 77,658 | 🐛 1,271 | 🌐 Python | 📅 2026-08-28 [\[Pytorch\]](https://github.com/vaibhavnaagar/pixelDA_GAN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2019-08-17
 * Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [\[CVPR2018\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf) [\[Pytorch(Official)\]](https://github.com/mil-tokyo/MCD_DA) ⭐ 575 | 🐛 27 | 🌐 Python | 📅 2022-10-07
 * CyCADA: Cycle-Consistent Adversarial Domain Adaptation [\[ICML2018\]](http://proceedings.mlr.press/v80/hoffman18a.html) [\[Pytorch(official)\]](https://github.com/jhoffman/cycada_release) ⭐ 567 | 🐛 15 | 🌐 Python | 📅 2021-09-23
-* Conditional Adversarial Domain Adaptation [\[NIPS2018\]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation) [\[Pytorch(official)\]](https://github.com/thuml/CDAN) ⭐ 419 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25  [\[Pytorch(third party)\]](https://github.com/thuml/CDAN) ⭐ 419 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25
+* Conditional Adversarial Domain Adaptation [\[NIPS2018\]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation) [\[Pytorch(official)\]](https://github.com/thuml/CDAN) ⭐ 420 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25  [\[Pytorch(third party)\]](https://github.com/thuml/CDAN) ⭐ 420 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25
 * Adversarial Discriminative Domain Adaptation [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)  [\[Tensorflow(Official)\]](https://github.com/erictzeng/adda) ⭐ 222 | 🐛 13 | 🌐 Python | 📅 2019-02-28 [\[Pytorch\]](https://github.com/corenel/pytorch-adda) ⭐ 494 | 🐛 27 | 🌐 Python | 📅 2022-04-12
 * A DIRT-T Approach to Unsupervised Domain Adaptation [\[ICLR2018 Poster\]](https://openreview.net/forum?id=H1q-TM-AW) [\[Tensorflow(Official)\]](https://github.com/RuiShu/dirt-t) ⭐ 176 | 🐛 1 | 🌐 Python | 📅 2018-03-16
 * Adversarial Domain Adaptation with Domain Mixup [\[AAAI2020\]](https://arxiv.org/abs/1912.01805v1) [\[Pytorch\]](https://github.com/ChrisAllenMing/Mixup_for_UDA) ⭐ 164 | 🐛 6 | 🌐 Python | 📅 2020-06-09
@@ -268,7 +268,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Conference**
 
-* Joint Distribution Optimal Transportation for Domain Adaptation [\[NIPS2017\]](http://papers.nips.cc/paper/6963-joint-distribution-optimal-transportation-for-domain-adaptation.pdf) [\[python\]](https://github.com/rflamary/JDOT) ⭐ 107 | 🐛 0 | 🌐 Python | 📅 2017-11-27 [\[Python Optimal Transport Library\]](https://github.com/rflamary/POT) ⭐ 2,837 | 🐛 38 | 🌐 Python | 📅 2026-08-27
+* Joint Distribution Optimal Transportation for Domain Adaptation [\[NIPS2017\]](http://papers.nips.cc/paper/6963-joint-distribution-optimal-transportation-for-domain-adaptation.pdf) [\[python\]](https://github.com/rflamary/JDOT) ⭐ 107 | 🐛 0 | 🌐 Python | 📅 2017-11-27 [\[Python Optimal Transport Library\]](https://github.com/rflamary/POT) ⭐ 2,838 | 🐛 38 | 🌐 Python | 📅 2026-08-27
 * DeepJDOT: Deep Joint distribution optimal transport for unsupervised domain adaptation [\[ECCV2018\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bharath_Bhushan_Damodaran_DeepJDOT_Deep_Joint_ECCV_2018_paper.pdf) [\[Keras\]](https://github.com/bbdamodaran/deepJDOT) ⭐ 63 | 🐛 7 | 🌐 Python | 📅 2019-07-16
 * Unbalanced minibatch Optimal Transport; applications to Domain Adaptation [\[ICML2021\]](https://arxiv.org/abs/2103.03606) [\[Pytorch\]](https://github.com/kilianFatras/JUMBOT) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2022-09-06
 * Margin-aware Adversarial Domain Adaptation with Optimal Transport [\[ICML2020\]](https://proceedings.icml.cc/static/paper_files/icml/2020/2666-Paper.pdf) [\[code\]](https://github.com/sofiendhouib/MADAOT) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2022-01-31
@@ -901,7 +901,6 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 * Strong-Weak Distribution Alignment for Adaptive Object Detection [\[CVPR2019\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Saito_Strong-Weak_Distribution_Alignment_for_Adaptive_Object_Detection_CVPR_2019_paper.pdf) [\[Pytorch\]](https://github.com/VisionLearningGroup/DA_Detection) ⭐ 358 | 🐛 36 | 🌐 Python | 📅 2019-04-20
 * Cross-Domain Adaptive Teacher for Object Detection [\[CVPR2022\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Cross-Domain_Adaptive_Teacher_for_Object_Detection_CVPR_2022_paper.pdf) [\[Project\]](https://yujheli.github.io/projects/adaptiveteacher.html) [\[PyTorch\]](https://github.com/facebookresearch/adaptive_teacher) ⚠️ Archived
-* SIGMA: Semantic-complete Graph Matching for Domain Adaptive Object Detection [\[CVPR2022\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_SIGMA_Semantic-Complete_Graph_Matching_for_Domain_Adaptive_Object_Detection_CVPR_2022_paper.pdf) [\[PyTorch\]](https://github.com/CityU-AIM-Group/SIGMA) ⭐ 173 | 🐛 8 | 🌐 Python | 📅 2023-11-14
 * Cross-domain Detection via Graph-induced Prototype Alignment [\[CVPR2020 Oral\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Cross-Domain_Detection_via_Graph-Induced_Prototype_Alignment_CVPR_2020_paper.pdf) [\[code\]](https://github.com/ChrisAllenMing/GPA-detection) ⭐ 144 | 🐛 19 | 🌐 Python | 📅 2021-04-27
 * Harmonizing Transferability and Discriminability for Adapting Object Detectors [\[CVPR2020\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Harmonizing_Transferability_and_Discriminability_for_Adapting_Object_Detectors_CVPR_2020_paper.pdf) [\[code\]](https://github.com/chaoqichen/HTCN) ⭐ 117 | 🐛 22 | 🌐 Python | 📅 2020-07-06
 * Exploring Categorical Regularization for Domain Adaptive Object Detection [\[CVPR2020\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Exploring_Categorical_Regularization_for_Domain_Adaptive_Object_Detection_CVPR_2020_paper.pdf) [\[code\]](https://github.com/Megvii-Nanjing/CR-DA-DET) ⭐ 117 | 🐛 15 | 🌐 Python | 📅 2020-05-29
@@ -911,17 +910,18 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 * Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection [\[CVPR2019\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Diversify_and_Match_A_Domain_Adaptive_Representation_Learning_Paradigm_for_CVPR_2019_paper.pdf) [\[Pytorch\]](https://github.com/TKKim93/DivMatch) ⭐ 46 | 🐛 6 | 🌐 Python | 📅 2019-11-02
 * Towards Online Domain Adaptive Object Detection [\[WACV2023\]](https://arxiv.org/abs/2204.05289) \[\[<https://github.com/Vibashan/online-da> ⭐ 44 | 🐛 6 | 🌐 Python | 📅 2023-03-20]]
 * Task-specific Inconsistency Alignment for Domain Adaptive Object Detection [\[CVPR2022\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Task-Specific_Inconsistency_Alignment_for_Domain_Adaptive_Object_Detection_CVPR_2022_paper.pdf) [\[PyTorch\]](https://github.com/MCG-NJU/TIA) ⭐ 40 | 🐛 5 | 🌐 Python | 📅 2022-07-20
-* SCAN: Cross Domain Object Detection with Semantic Conditioned Adaptation [\[AAAI2022\]](https://www.aaai.org/AAAI22Papers/AAAI-902.LiW.pdf) [\[PyTorch\]](https://github.com/CityU-AIM-Group/SCAN) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2022-11-25
-* Towards Robust Adaptive Object Detection under Noisy Annotations [\[CVPR2022\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Towards_Robust_Adaptive_Object_Detection_Under_Noisy_Annotations_CVPR_2022_paper.pdf) [\[PyTorch\]](https://github.com/CityU-AIM-Group/NLTE) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2022-05-14
 * H<sup>2</sup>FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-Domain Weakly Supervised Object Detection [\[CVPR2022\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_H2FA_R-CNN_Holistic_and_Hierarchical_Feature_Alignment_for_Cross-Domain_Weakly_CVPR_2022_paper.pdf) [\[PyTorch\]](https://github.com/XuYunqiu/H2FA_R-CNN) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2022-12-28 [\[PaddlePaddle\]](https://github.com/XuYunqiu/H2FA_R-CNN/tree/ppdet) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2022-12-28
 * Decoupled Adaptation for Cross-Domain Object Detection [\[ICLR2022\]](https://openreview.net/pdf?id=VNqaB1g9393) [\[PyTorch\]](https://github.com/thuml/Decoupled-Adaptation-for-Cross-Domain-Object-Detection) ⭐ 30 | 🐛 3 | 📅 2022-03-14
 * Improving Object Detection via Local-Global Contrastive Learning [\[BMVC2024\]](https://arxiv.org/abs/2410.05058) [\[Project\]](https://local-global-detection.github.io/)
 * Supervision Interpolation via LossMix: Generalizing Mixup for Object Detection and Beyond [\[AAAI2024\]](https://arxiv.org/abs/2303.10343)
 * Instance Relation Graph Guided Source-Free Domain Adaptive Object Detection [\[CVPR2023\]](https://arxiv.org/abs/2203.15793) [\[Project\]](https://viudomain.github.io/irg-sfda-web/)
 * Mixture of Teacher Experts for Source-Free Domain Adaptive Object Detection [\[ICIP2022\]](https://ieeexplore.ieee.org/document/9897795)
+* Towards Robust Adaptive Object Detection under Noisy Annotations [\[CVPR2022\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Towards_Robust_Adaptive_Object_Detection_Under_Noisy_Annotations_CVPR_2022_paper.pdf) [\[PyTorch\]](https://github.com/CityU-AIM-Group/NLTE)
+* SIGMA: Semantic-complete Graph Matching for Domain Adaptive Object Detection [\[CVPR2022\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_SIGMA_Semantic-Complete_Graph_Matching_for_Domain_Adaptive_Object_Detection_CVPR_2022_paper.pdf) [\[PyTorch\]](https://github.com/CityU-AIM-Group/SIGMA)
 * Single-Domain Generalized Object Detection in Urban Scene via Cyclic-Disentangled Self-Distillation [\[CVPR2022\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Single-Domain_Generalized_Object_Detection_in_Urban_Scene_via_Cyclic-Disentangled_Self-Distillation_CVPR_2022_paper.pdf)
 * Target-Relevant Knowledge Preservation for Multi-Source Domain Adaptive Object Detection [\[CVPR2022\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Target-Relevant_Knowledge_Preservation_for_Multi-Source_Domain_Adaptive_Object_Detection_CVPR_2022_paper.pdf)
 * Cross Domain Object Detection by Target-Perceived Dual Branch Distillation [\[CVPR2022\]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Cross_Domain_Object_Detection_by_Target-Perceived_Dual_Branch_Distillation_CVPR_2022_paper.pdf)
+* SCAN: Cross Domain Object Detection with Semantic Conditioned Adaptation [\[AAAI2022\]](https://www.aaai.org/AAAI22Papers/AAAI-902.LiW.pdf) [\[PyTorch\]](https://github.com/CityU-AIM-Group/SCAN)
 * SSAL: Synergizing between Self-Training and Adversarial Learning for Domain Adaptive Object Detection [\[NeurIPS2021\]](https://proceedings.neurips.cc/paper/2021/file/c0cccc24dd23ded67404f5e511c342b0-Paper.pdf) [\[Project\]](http://im.itu.edu.pk/synergizing-domain-adaptation/)
 * Multi-Source Domain Adaptation for Object Detection [\[ICCV2021\]](https://openaccess.thecvf.com/content/ICCV2021/html/Yao_Multi-Source_Domain_Adaptation_for_Object_Detection_ICCV_2021_paper.html)
 * Knowledge Mining and Transferring for Domain Adaptive Object Detection [\[ICCV2021\]](https://openaccess.thecvf.com/content/ICCV2021/html/Tian_Knowledge_Mining_and_Transferring_for_Domain_Adaptive_Object_Detection_ICCV_2021_paper.html)
@@ -1287,7 +1287,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 # Library
 
-* [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,932 | 🐛 19 | 🌐 Python | 📅 2024-05-10
+* [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,933 | 🐛 19 | 🌐 Python | 📅 2024-05-10
 * [Dassl: a PyTorch toolbox for domain adaptation and semi-supervised learning](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,428 | 🐛 29 | 🌐 Python | 📅 2023-11-03
 * [deep-transfer-learning: a PyTorch library for deep transfer learning](https://github.com/easezyc/deep-transfer-learning) ⭐ 961 | 🐛 7 | 🌐 Python | 📅 2022-03-03
 * [joliGEN: an integrated framework for training custom generative AI image-to-image models](https://github.com/jolibrain/joliGEN) ⭐ 288 | 🐛 41 | 🌐 Python | 📅 2026-08-27
@@ -1299,8 +1299,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 # Other Resources
 
-* [transferlearning](https://github.com/jindongwang/transferlearning) ⭐ 14,348 | 🐛 24 | 🌐 Python | 📅 2025-02-18
+* [transferlearning](https://github.com/jindongwang/transferlearning) ⭐ 14,347 | 🐛 24 | 🌐 Python | 📅 2025-02-18
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
