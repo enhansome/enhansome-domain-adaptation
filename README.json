@@ -6987,7 +6987,7 @@
                 "open_issues": 12,
                 "owner": "hendrycks",
                 "repo": "robustness",
-                "stars": 1172,
+                "stars": 1173,
                 "topics": [
                   "computer-vision",
                   "convolutional-neural-networks",
@@ -7094,7 +7094,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3933,
+            "stars": 3934,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:16:24.683Z",
+    "last_updated": "2026-08-30T01:08:15.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
