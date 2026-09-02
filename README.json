@@ -1895,7 +1895,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2020-10-12T07:03:34Z",
-                    "open_issues": 3,
+                    "open_issues": 2,
                     "owner": "ambekarsameer96",
                     "repo": "GLSS",
                     "stars": 33,
@@ -3025,7 +3025,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2022-05-10T07:02:13Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "ChrisAllenMing",
                 "repo": "LtC-MSDA",
                 "stars": 75,
@@ -7018,7 +7018,7 @@
                 "open_issues": 34,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 842,
+                "stars": 843,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:42:09.992Z",
+    "last_updated": "2026-09-02T00:52:11.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
