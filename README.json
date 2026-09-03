@@ -130,11 +130,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-31T23:14:28Z",
+                    "last_commit": "2026-09-02T18:30:36Z",
                     "open_issues": 1273,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77660,
+                    "stars": 77659,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -1895,7 +1895,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2020-10-12T07:03:34Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "ambekarsameer96",
                     "repo": "GLSS",
                     "stars": 33,
@@ -2269,7 +2269,7 @@
                 "open_issues": 7,
                 "owner": "VisionLearningGroup",
                 "repo": "SSDA_MME",
-                "stars": 312,
+                "stars": 311,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:47:41.594Z"
@@ -3025,7 +3025,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2022-05-10T07:02:13Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "ChrisAllenMing",
                 "repo": "LtC-MSDA",
                 "stars": 75,
@@ -7094,7 +7094,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3934,
+            "stars": 3935,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:52:11.224Z",
+    "last_updated": "2026-09-03T00:58:57.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
