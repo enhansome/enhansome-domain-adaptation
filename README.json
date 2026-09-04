@@ -130,11 +130,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-02T18:30:36Z",
+                    "last_commit": "2026-09-03T23:11:37Z",
                     "open_issues": 1273,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659,
+                    "stars": 77661,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -1589,7 +1589,7 @@
                     "open_issues": 13,
                     "owner": "yzou2",
                     "repo": "CRST",
-                    "stars": 238,
+                    "stars": 239,
                     "topics": [
                       "domain-adaptation",
                       "self-training",
@@ -4452,7 +4452,7 @@
                     "open_issues": 6,
                     "owner": "msohaildanish",
                     "repo": "DivAlign",
-                    "stars": 25,
+                    "stars": 26,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -5311,30 +5311,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Category Anchor-Guided Unsupervised Domain Adaptation for Semantic Segmentation [NeurIPS2019]",
-                  "description": "[code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "(NeurIPS2019) Category Anchor-Guided Unsupervised Domain Adaptation for Semantic Segmentation",
-                    "homepage": null,
-                    "id": 215513287,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2023-07-06T21:14:34Z",
-                    "open_issues": 11,
-                    "owner": "RogerZhangzz",
-                    "repo": "CAG_UDA",
-                    "stars": 144,
-                    "topics": [
-                      "segmentation",
-                      "uda"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T06:47:41.594Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation [CVPR2019]",
                   "description": "[Pytorch]",
                   "children": [],
@@ -5356,6 +5332,30 @@
                       "deep-learning",
                       "domain-adaptation",
                       "semantic-segmentation"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T06:47:41.594Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Category Anchor-Guided Unsupervised Domain Adaptation for Semantic Segmentation [NeurIPS2019]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "(NeurIPS2019) Category Anchor-Guided Unsupervised Domain Adaptation for Semantic Segmentation",
+                    "homepage": null,
+                    "id": 215513287,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2023-07-06T21:14:34Z",
+                    "open_issues": 11,
+                    "owner": "RogerZhangzz",
+                    "repo": "CAG_UDA",
+                    "stars": 143,
+                    "topics": [
+                      "segmentation",
+                      "uda"
                     ]
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -6987,7 +6987,7 @@
                 "open_issues": 12,
                 "owner": "hendrycks",
                 "repo": "robustness",
-                "stars": 1173,
+                "stars": 1172,
                 "topics": [
                   "computer-vision",
                   "convolutional-neural-networks",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T00:58:57.882Z",
+    "last_updated": "2026-09-04T00:50:03.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
@@ -7216,7 +7216,7 @@
       "open_issues": 1,
       "owner": "zhaoxin94",
       "repo": "awesome-domain-adaptation",
-      "stars": 5456,
+      "stars": 5455,
       "topics": [
         "adversarial-learning",
         "awesome-list",
