@@ -130,7 +130,7 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-03T23:11:37Z",
+                    "last_commit": "2026-09-05T00:14:58Z",
                     "open_issues": 1273,
                     "owner": "tensorflow",
                     "repo": "models",
@@ -7094,7 +7094,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3935,
+            "stars": 3934,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T00:50:03.155Z",
+    "last_updated": "2026-09-05T00:39:37.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
