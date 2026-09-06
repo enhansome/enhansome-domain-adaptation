@@ -134,7 +134,7 @@
                     "open_issues": 1273,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77661,
+                    "stars": 77659,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -4452,7 +4452,7 @@
                     "open_issues": 6,
                     "owner": "msohaildanish",
                     "repo": "DivAlign",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:39:37.736Z",
+    "last_updated": "2026-09-06T00:39:13.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
