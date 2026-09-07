@@ -134,7 +134,7 @@
                     "open_issues": 1273,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659,
+                    "stars": 77660,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -6801,7 +6801,7 @@
                     "open_issues": 11,
                     "owner": "chaneyddtt",
                     "repo": "UDA-Animal-Pose",
-                    "stars": 107,
+                    "stars": 106,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T00:39:13.282Z",
+    "last_updated": "2026-09-07T00:44:20.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
