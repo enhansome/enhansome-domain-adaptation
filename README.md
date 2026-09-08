@@ -212,7 +212,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Arxiv**
 
-* M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [\[arXiv 6 Jul 2018\]](https://arxiv.org/abs/1807.02552v1) [\[Pytorch(official)\]](https://github.com/IssamLaradji/M-ADDA) ⭐ 113 | 🐛 5 | 🌐 Python | 📅 2019-06-11
+* M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [\[arXiv 6 Jul 2018\]](https://arxiv.org/abs/1807.02552v1) [\[Pytorch(official)\]](https://github.com/IssamLaradji/M-ADDA) ⭐ 112 | 🐛 5 | 🌐 Python | 📅 2019-06-11
 * Enlarging Discriminative Power by Adding an Extra Class in Unsupervised Domain Adaptation [\[19 Feb 2020\]](https://arxiv.org/abs/2002.08041v1) [\[Tensorflow\]](https://github.com/haitran14/gada) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2020-02-19
 * Bi-Directional Generation for Unsupervised Domain Adaptation [\[12 Feb 2020\]](https://arxiv.org/abs/2002.04869v1)
 * Learning Domain Adaptive Features with Unlabeled Domain Bridges [\[10 Dec 2019\]](https://arxiv.org/abs/1912.05004v1)
@@ -268,7 +268,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Conference**
 
-* Joint Distribution Optimal Transportation for Domain Adaptation [\[NIPS2017\]](http://papers.nips.cc/paper/6963-joint-distribution-optimal-transportation-for-domain-adaptation.pdf) [\[python\]](https://github.com/rflamary/JDOT) ⭐ 107 | 🐛 0 | 🌐 Python | 📅 2017-11-27 [\[Python Optimal Transport Library\]](https://github.com/rflamary/POT) ⭐ 2,841 | 🐛 39 | 🌐 Python | 📅 2026-08-28
+* Joint Distribution Optimal Transportation for Domain Adaptation [\[NIPS2017\]](http://papers.nips.cc/paper/6963-joint-distribution-optimal-transportation-for-domain-adaptation.pdf) [\[python\]](https://github.com/rflamary/JDOT) ⭐ 107 | 🐛 0 | 🌐 Python | 📅 2017-11-27 [\[Python Optimal Transport Library\]](https://github.com/rflamary/POT) ⭐ 2,841 | 🐛 39 | 🌐 Python | 📅 2026-09-07
 * DeepJDOT: Deep Joint distribution optimal transport for unsupervised domain adaptation [\[ECCV2018\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bharath_Bhushan_Damodaran_DeepJDOT_Deep_Joint_ECCV_2018_paper.pdf) [\[Keras\]](https://github.com/bbdamodaran/deepJDOT) ⭐ 63 | 🐛 7 | 🌐 Python | 📅 2019-07-16
 * Unbalanced minibatch Optimal Transport; applications to Domain Adaptation [\[ICML2021\]](https://arxiv.org/abs/2103.03606) [\[Pytorch\]](https://github.com/kilianFatras/JUMBOT) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2022-09-06
 * Margin-aware Adversarial Domain Adaptation with Optimal Transport [\[ICML2020\]](https://proceedings.icml.cc/static/paper_files/icml/2020/2666-Paper.pdf) [\[code\]](https://github.com/sofiendhouib/MADAOT) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2022-01-31
@@ -627,7 +627,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 * Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [\[ICCV Workshop 2021\]](https://arxiv.org/abs/2108.10840) [\[Pytorch\]](https://github.com/bupt-ai-cz/Meta-SelfLearning) ⭐ 204 | 🐛 2 | 🌐 Python | 📅 2025-04-25
 * Multi-source Domain Adaptation for Semantic Segmentation [\[NeurlPS2019\]](https://arxiv.org/abs/1910.12181) [\[Pytorch\]](https://github.com/Luodian/MADAN) ⭐ 174 | 🐛 7 | 🌐 Python | 📅 2020-08-29
-* Adversarial Multiple Source Domain Adaptation [\[NIPS2018\]](http://papers.nips.cc/paper/8075-adversarial-multiple-source-domain-adaptation) [\[Pytorch\]](https://github.com/KeiraZhao/MDAN) ⭐ 129 | 🐛 5 | 🌐 Python | 📅 2020-02-04
+* Adversarial Multiple Source Domain Adaptation [\[NIPS2018\]](http://papers.nips.cc/paper/8075-adversarial-multiple-source-domain-adaptation) [\[Pytorch\]](https://github.com/KeiraZhao/MDAN) ⭐ 128 | 🐛 5 | 🌐 Python | 📅 2020-02-04
 * Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation [\[ECCV2020\]](https://github.com/ChrisAllenMing/LtC-MSDA) ⭐ 75 | 🐛 4 | 🌐 Python | 📅 2022-05-10 [\[Pytorch\]](https://github.com/ChrisAllenMing/LtC-MSDA) ⭐ 75 | 🐛 4 | 🌐 Python | 📅 2022-05-10
 * Dynamic Transfer for Multi-Source Domain Adaptation [\[CVPR2021\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Dynamic_Transfer_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.pdf) [\[Pytorch\]](https://github.com/liyunsheng13/DRT) ⭐ 68 | 🐛 2 | 🌐 Python | 📅 2023-03-25
 * Multi-source Distilling Domain Adaptation [\[AAAI2020\]](https://arxiv.org/abs/1911.11554v1) [\[code\]](https://github.com/daoyuan98/MDDA) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2020-02-06
@@ -1299,8 +1299,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 # Other Resources
 
-* [transferlearning](https://github.com/jindongwang/transferlearning) ⭐ 14,347 | 🐛 24 | 🌐 Python | 📅 2025-02-18
+* [transferlearning](https://github.com/jindongwang/transferlearning) ⭐ 14,348 | 🐛 24 | 🌐 Python | 📅 2025-02-18
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

@@ -948,7 +948,7 @@
                     "open_issues": 5,
                     "owner": "IssamLaradji",
                     "repo": "M-ADDA",
-                    "stars": 113,
+                    "stars": 112,
                     "topics": [
                       "domain-adaptation",
                       "pytorch"
@@ -3007,7 +3007,7 @@
                 "open_issues": 5,
                 "owner": "hanzhaoml",
                 "repo": "MDAN",
-                "stars": 129,
+                "stars": 128,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:47:41.594Z"
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:44:20.407Z",
+    "last_updated": "2026-09-08T00:58:02.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
