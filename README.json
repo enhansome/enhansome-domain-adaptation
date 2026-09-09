@@ -131,10 +131,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-05T00:14:58Z",
-                    "open_issues": 1273,
+                    "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77660,
+                    "stars": 77656,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -519,7 +519,7 @@
                     "open_issues": 3,
                     "owner": "thuml",
                     "repo": "Batch-Spectral-Penalization",
-                    "stars": 93,
+                    "stars": 92,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -659,7 +659,7 @@
                     "open_issues": 6,
                     "owner": "lijin118",
                     "repo": "CGDM",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -1732,32 +1732,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Unsupervised Domain Adaptation using Feature-Whitening and Consensus Loss [CVPR 2019]",
-                  "description": "[Pytorch]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code for paper \"Unsupervised Domain Adaptation using Feature-Whitening and Consensus Loss\" (CVPR 2019)",
-                    "homepage": null,
-                    "id": 179537388,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2021-03-11T15:19:23Z",
-                    "open_issues": 2,
-                    "owner": "roysubhankar",
-                    "repo": "dwt-domain-adaptation",
-                    "stars": 65,
-                    "topics": [
-                      "cvpr2019",
-                      "domain-adaptation",
-                      "pytorch",
-                      "whitening"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T06:47:41.594Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Minimal-Entropy Correlation Alignment for Unsupervised Deep Domain Adaptation [ICLR2018]",
                   "description": "[TensorFlow]",
                   "children": [],
@@ -1777,6 +1751,32 @@
                       "domain-adaptation",
                       "entropy",
                       "geodesic"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T06:47:41.594Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Unsupervised Domain Adaptation using Feature-Whitening and Consensus Loss [CVPR 2019]",
+                  "description": "[Pytorch]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code for paper \"Unsupervised Domain Adaptation using Feature-Whitening and Consensus Loss\" (CVPR 2019)",
+                    "homepage": null,
+                    "id": 179537388,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2021-03-11T15:19:23Z",
+                    "open_issues": 2,
+                    "owner": "roysubhankar",
+                    "repo": "dwt-domain-adaptation",
+                    "stars": 64,
+                    "topics": [
+                      "cvpr2019",
+                      "domain-adaptation",
+                      "pytorch",
+                      "whitening"
                     ]
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -6060,7 +6060,7 @@
                     "open_issues": 6,
                     "owner": "yxgeee",
                     "repo": "MMT",
-                    "stars": 481,
+                    "stars": 479,
                     "topics": [
                       "cross-domain",
                       "domain-adaptation",
@@ -6111,7 +6111,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2020-05-09T04:12:08Z",
-                    "open_issues": 25,
+                    "open_issues": 24,
                     "owner": "SHI-Labs",
                     "repo": "Self-Similarity-Grouping",
                     "stars": 187,
@@ -6559,7 +6559,7 @@
                     "open_issues": 2,
                     "owner": "darrenjkt",
                     "repo": "MS3D",
-                    "stars": 205,
+                    "stars": 207,
                     "topics": [
                       "3d-object-detection",
                       "domain-adaptation",
@@ -7018,7 +7018,7 @@
                 "open_issues": 34,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 843,
+                "stars": 844,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -7094,7 +7094,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3934,
+            "stars": 3935,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T00:58:02.997Z",
+    "last_updated": "2026-09-09T01:04:41.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
@@ -7216,7 +7216,7 @@
       "open_issues": 1,
       "owner": "zhaoxin94",
       "repo": "awesome-domain-adaptation",
-      "stars": 5455,
+      "stars": 5454,
       "topics": [
         "adversarial-learning",
         "awesome-list",
