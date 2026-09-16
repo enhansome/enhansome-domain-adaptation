@@ -5103,7 +5103,7 @@
                     "open_issues": 22,
                     "owner": "YanchaoYang",
                     "repo": "FDA",
-                    "stars": 553,
+                    "stars": 554,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -5858,7 +5858,7 @@
                     "open_issues": 3,
                     "owner": "BIT-DA",
                     "repo": "SePiCo",
-                    "stars": 120,
+                    "stars": 121,
                     "topics": [
                       "deeplab-resnet",
                       "dense-contrastive-learning",
@@ -7094,7 +7094,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3937,
+            "stars": 3938,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:13:45.063Z",
+    "last_updated": "2026-09-16T01:08:57.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",

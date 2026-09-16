@@ -268,7 +268,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Conference**
 
-* Joint Distribution Optimal Transportation for Domain Adaptation [\[NIPS2017\]](http://papers.nips.cc/paper/6963-joint-distribution-optimal-transportation-for-domain-adaptation.pdf) [\[python\]](https://github.com/rflamary/JDOT) ⭐ 107 | 🐛 0 | 🌐 Python | 📅 2017-11-27 [\[Python Optimal Transport Library\]](https://github.com/rflamary/POT) ⭐ 2,844 | 🐛 42 | 🌐 Python | 📅 2026-09-14
+* Joint Distribution Optimal Transportation for Domain Adaptation [\[NIPS2017\]](http://papers.nips.cc/paper/6963-joint-distribution-optimal-transportation-for-domain-adaptation.pdf) [\[python\]](https://github.com/rflamary/JDOT) ⭐ 107 | 🐛 0 | 🌐 Python | 📅 2017-11-27 [\[Python Optimal Transport Library\]](https://github.com/rflamary/POT) ⭐ 2,845 | 🐛 42 | 🌐 Python | 📅 2026-09-15
 * DeepJDOT: Deep Joint distribution optimal transport for unsupervised domain adaptation [\[ECCV2018\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bharath_Bhushan_Damodaran_DeepJDOT_Deep_Joint_ECCV_2018_paper.pdf) [\[Keras\]](https://github.com/bbdamodaran/deepJDOT) ⭐ 63 | 🐛 7 | 🌐 Python | 📅 2019-07-16
 * Unbalanced minibatch Optimal Transport; applications to Domain Adaptation [\[ICML2021\]](https://arxiv.org/abs/2103.03606) [\[Pytorch\]](https://github.com/kilianFatras/JUMBOT) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2022-09-06
 * Margin-aware Adversarial Domain Adaptation with Optimal Transport [\[ICML2020\]](https://proceedings.icml.cc/static/paper_files/icml/2020/2666-Paper.pdf) [\[code\]](https://github.com/sofiendhouib/MADAOT) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2022-01-31
@@ -977,7 +977,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 * Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation [\[CVPR2019 Oral\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Luo_Taking_a_Closer_Look_at_Domain_Shift_Category-Level_Adversaries_for_CVPR_2019_paper.pdf) [\[Pytorch\]](https://github.com/RoyalVane/CLAN) ⭐ 1,289 | 🐛 1 | 🌐 Python | 📅 2021-03-13
 * Learning to Adapt Structured Output Space for Semantic Segmentation [\[CVPR2018\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tsai_Learning_to_Adapt_CVPR_2018_paper.pdf) [\[Pytorch\]](https://github.com/wasidennis/AdaptSegNet) ⭐ 858 | 🐛 29 | 🌐 Python | 📅 2020-08-14
 * DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation [\[CVPR 2022\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hoyer_DAFormer_Improving_Network_Architectures_and_Training_Strategies_for_Domain-Adaptive_Semantic_CVPR_2022_paper.pdf) [\[Pytorch\]](https://github.com/lhoyer/DAFormer) ⭐ 574 | 🐛 15 | 🌐 Python | 📅 2024-08-10
-* FDA: Fourier Domain Adaptation for Semantic Segmentation [\[CVPR2020\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FDA_Fourier_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2020_paper.pdf) [\[Pytorch\]](https://github.com/YanchaoYang/FDA/blob/master/SStrain.py) ⭐ 553 | 🐛 22 | 🌐 Python | 📅 2020-07-01
+* FDA: Fourier Domain Adaptation for Semantic Segmentation [\[CVPR2020\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FDA_Fourier_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2020_paper.pdf) [\[Pytorch\]](https://github.com/YanchaoYang/FDA/blob/master/SStrain.py) ⭐ 554 | 🐛 22 | 🌐 Python | 📅 2020-07-01
 * Unsupervised Scene Adaptation with Memory Regularization in vivo [\[IJCAI2020\]](https://arxiv.org/abs/1912.11164) [\[code\]](https://github.com/layumi/Seg-Uncertainty) ⭐ 397 | 🐛 9 | 🌐 Python | 📅 2025-10-24
 * ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation [\[CVPR2019 Oral\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vu_ADVENT_Adversarial_Entropy_Minimization_for_Domain_Adaptation_in_Semantic_Segmentation_CVPR_2019_paper.pdf) [\[Pytorch\]](https://github.com/valeoai/ADVENT) ⭐ 397 | 🐛 16 | 🌐 Python | 📅 2021-01-17
 * MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation [\[CVPR 2023\]](https://arxiv.org/abs/2212.01322) [\[Pytorch\]](https://github.com/lhoyer/MIC) ⭐ 295 | 🐛 23 | 🌐 Python | 📅 2024-08-10
@@ -1069,7 +1069,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 **Journal**
 
 * Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [\[IJCV2020\]](https://arxiv.org/abs/2003.03773)[\[Pytorch\]](https://github.com/layumi/Seg-Uncertainty) ⭐ 397 | 🐛 9 | 🌐 Python | 📅 2025-10-24
-* SePiCo: Semantic-Guided Pixel Contrast for Domain Adaptive Semantic Segmentation [\[TPAMI2023\]](https://ieeexplore.ieee.org/document/10018569)[\[arxiv version\]](https://arxiv.org/abs/2204.08808)[\[Pytorch\]](https://github.com/BIT-DA/SePiCo) ⭐ 120 | 🐛 3 | 🌐 Python | 📅 2023-11-30
+* SePiCo: Semantic-Guided Pixel Contrast for Domain Adaptive Semantic Segmentation [\[TPAMI2023\]](https://ieeexplore.ieee.org/document/10018569)[\[arxiv version\]](https://arxiv.org/abs/2204.08808)[\[Pytorch\]](https://github.com/BIT-DA/SePiCo) ⭐ 121 | 🐛 3 | 🌐 Python | 📅 2023-11-30
 * Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet [\[Neurocomputing 2021\]](https://arxiv.org/abs/2006.15954) [\[Pytorch\]](https://github.com/bupt-ai-cz/CAC-UNet-DigestPath2019) ⭐ 98 | 🐛 3 | 🌐 Python | 📅 2023-02-18
 * Adaptive Boosting for Domain Adaptation: Towards Robust Predictions in Scene Segmentation [\[TIP2022\]](https://arxiv.org/abs/2103.15685)[\[Pytorch\]](https://github.com/layumi/AdaBoost_Seg) ⭐ 47 | 🐛 2 | 🌐 Python | 📅 2023-03-19
 * Affinity Space Adaptation for Semantic Segmentation Across Domains [\[TIP2020\]](https://arxiv.org/abs/2009.12559)[\[Pytorch\]](https://github.com/idealwei/ASANet) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2020-10-18
@@ -1287,7 +1287,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 # Library
 
-* [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,937 | 🐛 19 | 🌐 Python | 📅 2024-05-10
+* [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,938 | 🐛 19 | 🌐 Python | 📅 2024-05-10
 * [Dassl: a PyTorch toolbox for domain adaptation and semi-supervised learning](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,429 | 🐛 29 | 🌐 Python | 📅 2023-11-03
 * [deep-transfer-learning: a PyTorch library for deep transfer learning](https://github.com/easezyc/deep-transfer-learning) ⭐ 961 | 🐛 7 | 🌐 Python | 📅 2022-03-03
 * [joliGEN: an integrated framework for training custom generative AI image-to-image models](https://github.com/jolibrain/joliGEN) ⭐ 289 | 🐛 39 | 🌐 Python | 📅 2026-09-14
@@ -1303,4 +1303,4 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
