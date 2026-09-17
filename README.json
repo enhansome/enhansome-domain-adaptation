@@ -130,11 +130,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-10T20:22:01Z",
-                    "open_issues": 1274,
+                    "last_commit": "2026-09-16T18:51:07Z",
+                    "open_issues": 1275,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77659,
+                    "stars": 77657,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -239,7 +239,7 @@
                     "open_issues": 1,
                     "owner": "RuiShu",
                     "repo": "dirt-t",
-                    "stars": 176,
+                    "stars": 177,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -1967,7 +1967,7 @@
                     "open_issues": 1,
                     "owner": "mancinimassimiliano",
                     "repo": "adagraph",
-                    "stars": 23,
+                    "stars": 24,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:08:57.866Z",
+    "last_updated": "2026-09-17T01:07:02.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
