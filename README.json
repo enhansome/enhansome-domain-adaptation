@@ -131,10 +131,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-16T18:51:07Z",
-                    "open_issues": 1274,
+                    "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77655,
+                    "stars": 77654,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -4070,7 +4070,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1429,
+                    "stars": 1428,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -7094,7 +7094,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3938,
+            "stars": 3937,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -7127,7 +7127,7 @@
             "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1429,
+            "stars": 1428,
             "topics": [
               "artificial-intelligence",
               "benchmark-datasets",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:05:14.886Z",
+    "last_updated": "2026-09-19T01:00:28.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
