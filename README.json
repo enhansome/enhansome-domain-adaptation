@@ -134,7 +134,7 @@
                     "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77653,
+                    "stars": 77652,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -7018,7 +7018,7 @@
                 "open_issues": 34,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 847,
+                "stars": 848,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -7094,7 +7094,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3937,
+            "stars": 3938,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:45:04.095Z",
+    "last_updated": "2026-09-21T00:53:12.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
