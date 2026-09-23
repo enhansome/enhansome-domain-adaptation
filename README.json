@@ -131,10 +131,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-16T18:51:07Z",
-                    "open_issues": 1271,
+                    "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77653,
+                    "stars": 77651,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -4070,7 +4070,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1428,
+                    "stars": 1429,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -4279,7 +4279,7 @@
                     "open_issues": 6,
                     "owner": "HAHA-DL",
                     "repo": "Episodic-DG",
-                    "stars": 57,
+                    "stars": 58,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -4452,7 +4452,7 @@
                     "open_issues": 6,
                     "owner": "msohaildanish",
                     "repo": "DivAlign",
-                    "stars": 27,
+                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -6987,7 +6987,7 @@
                 "open_issues": 12,
                 "owner": "hendrycks",
                 "repo": "robustness",
-                "stars": 1174,
+                "stars": 1175,
                 "topics": [
                   "computer-vision",
                   "convolutional-neural-networks",
@@ -7127,7 +7127,7 @@
             "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1428,
+            "stars": 1429,
             "topics": [
               "artificial-intelligence",
               "benchmark-datasets",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:28:19.667Z",
+    "last_updated": "2026-09-23T01:17:52.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
