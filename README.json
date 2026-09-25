@@ -134,7 +134,7 @@
                     "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77652,
+                    "stars": 77653,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -7094,7 +7094,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3938,
+            "stars": 3939,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T01:10:33.399Z",
+    "last_updated": "2026-09-25T01:11:57.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
@@ -7216,7 +7216,7 @@
       "open_issues": 1,
       "owner": "zhaoxin94",
       "repo": "awesome-domain-adaptation",
-      "stars": 5455,
+      "stars": 5456,
       "topics": [
         "adversarial-learning",
         "awesome-list",
