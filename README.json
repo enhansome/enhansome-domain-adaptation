@@ -130,7 +130,7 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-23T16:07:15Z",
+                    "last_commit": "2026-09-29T00:07:29Z",
                     "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
@@ -4070,7 +4070,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1430,
+                    "stars": 1429,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -4410,7 +4410,7 @@
                     "open_issues": 0,
                     "owner": "n3il666",
                     "repo": "Meta-DMoE",
-                    "stars": 44,
+                    "stars": 43,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -5103,7 +5103,7 @@
                     "open_issues": 22,
                     "owner": "YanchaoYang",
                     "repo": "FDA",
-                    "stars": 555,
+                    "stars": 557,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -6198,7 +6198,7 @@
                     "open_issues": 27,
                     "owner": "huanghoujing",
                     "repo": "EANet",
-                    "stars": 398,
+                    "stars": 397,
                     "topics": [
                       "cross-domain",
                       "domain-adaptation",
@@ -7018,7 +7018,7 @@
                 "open_issues": 34,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 849,
+                "stars": 850,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -7094,7 +7094,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3939,
+            "stars": 3940,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -7127,7 +7127,7 @@
             "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1430,
+            "stars": 1429,
             "topics": [
               "artificial-intelligence",
               "benchmark-datasets",
@@ -7181,8 +7181,8 @@
             "id": 288411806,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T14:36:57Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-28T19:39:43Z",
+            "open_issues": 38,
             "owner": "jolibrain",
             "repo": "joliGEN",
             "stars": 289,
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:26:27.699Z",
+    "last_updated": "2026-09-29T02:30:11.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
