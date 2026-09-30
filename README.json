@@ -134,7 +134,7 @@
                     "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77652,
+                    "stars": 77653,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -176,7 +176,7 @@
                     "open_issues": 15,
                     "owner": "jhoffman",
                     "repo": "cycada_release",
-                    "stars": 567,
+                    "stars": 566,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -2986,7 +2986,7 @@
                 "open_issues": 7,
                 "owner": "Luodian",
                 "repo": "MADAN",
-                "stars": 174,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:47:41.594Z"
@@ -3411,7 +3411,7 @@
                 "open_issues": 3,
                 "owner": "hehaodele",
                 "repo": "CIDA",
-                "stars": 123,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:47:41.594Z"
@@ -4070,7 +4070,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1429,
+                    "stars": 1430,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -5048,7 +5048,7 @@
                     "open_issues": 29,
                     "owner": "wasidennis",
                     "repo": "AdaptSegNet",
-                    "stars": 858,
+                    "stars": 857,
                     "topics": [
                       "adversarial-learning",
                       "computer-vision",
@@ -5256,7 +5256,7 @@
                     "open_issues": 24,
                     "owner": "liyunsheng13",
                     "repo": "BDL",
-                    "stars": 223,
+                    "stars": 222,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -5277,7 +5277,7 @@
                     "open_issues": 2,
                     "owner": "valeoai",
                     "repo": "xmuda",
-                    "stars": 202,
+                    "stars": 201,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -6503,7 +6503,7 @@
                     "open_issues": 4,
                     "owner": "jeya-maria-jose",
                     "repo": "On-The-Fly-Adaptation",
-                    "stars": 31,
+                    "stars": 30,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -7018,7 +7018,7 @@
                 "open_issues": 34,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 850,
+                "stars": 851,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -7127,7 +7127,7 @@
             "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1429,
+            "stars": 1430,
             "topics": [
               "artificial-intelligence",
               "benchmark-datasets",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T02:30:11.192Z",
+    "last_updated": "2026-09-30T01:52:19.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
@@ -7216,7 +7216,7 @@
       "open_issues": 1,
       "owner": "zhaoxin94",
       "repo": "awesome-domain-adaptation",
-      "stars": 5456,
+      "stars": 5457,
       "topics": [
         "adversarial-learning",
         "awesome-list",
