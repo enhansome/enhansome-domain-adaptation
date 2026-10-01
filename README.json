@@ -4774,7 +4774,7 @@
                     "open_issues": 22,
                     "owner": "chaoqichen",
                     "repo": "HTCN",
-                    "stars": 117,
+                    "stars": 118,
                     "topics": [
                       "cvpr2020",
                       "domain-adaptation",
@@ -7182,7 +7182,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-28T19:39:43Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "jolibrain",
             "repo": "joliGEN",
             "stars": 289,
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T01:52:19.205Z",
+    "last_updated": "2026-10-01T01:49:48.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
