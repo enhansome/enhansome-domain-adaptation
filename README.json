@@ -130,11 +130,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-29T00:07:29Z",
+                    "last_commit": "2026-10-01T16:19:37Z",
                     "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77653,
+                    "stars": 77652,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -5077,7 +5077,7 @@
                     "open_issues": 15,
                     "owner": "lhoyer",
                     "repo": "DAFormer",
-                    "stars": 574,
+                    "stars": 575,
                     "topics": [
                       "cvpr2022",
                       "semantic-segmentation",
@@ -5103,7 +5103,7 @@
                     "open_issues": 22,
                     "owner": "YanchaoYang",
                     "repo": "FDA",
-                    "stars": 557,
+                    "stars": 559,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:49:48.819Z",
+    "last_updated": "2026-10-02T02:02:30.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
