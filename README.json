@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Video Unsupervised Domain Adaptation with Deep Learning: A Comprehensive Survey [17 Nov 2022]",
-              "description": "[project]",
+              "description": "xuyu0010/awesome-video-domain-adaptation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -131,7 +131,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-01T16:19:37Z",
-                    "open_issues": 1272,
+                    "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
                     "stars": 77653,
@@ -987,7 +987,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Domain Adaptation with Residual Transfer Networks [NIPS2016]",
-                  "description": "[code]",
+                  "description": "thuml/Xlearn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1011,7 +1011,7 @@
                 {
                   "node_type": "item",
                   "title": "Deep Transfer Learning with Joint Adaptation Networks [ICML2017]",
-                  "description": "[code]",
+                  "description": "thuml/Xlearn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1035,7 +1035,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Transferable Features with Deep Adaptation Networks [ICML2015]",
-                  "description": "[code]",
+                  "description": "thuml/DAN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1201,7 +1201,7 @@
                 {
                   "node_type": "item",
                   "title": "Margin-aware Adversarial Domain Adaptation with Optimal Transport [ICML2020]",
-                  "description": "[code]",
+                  "description": "sofiendhouib/MADAOT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1885,7 +1885,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Domain Adaptation for Semantic Segmentation of NIR Images through Generative Latent Search [ECCV2020]",
-                  "description": "[code]",
+                  "description": "ambekarsameer96/GLSS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2020,7 +2020,7 @@
                 {
                   "node_type": "item",
                   "title": "Light-weight Calibrator: A Separable Component for Unsupervised Domain Adaptation [CVPR2020]",
-                  "description": "[code]",
+                  "description": "yeshaokai/Calibrator-Domain-Adaptation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2111,7 +2111,7 @@
                 {
                   "node_type": "item",
                   "title": "Target-Independent Domain Adaptation for WBC Classification using Generative Latent Search [IEEE TMI 2020]",
-                  "description": "[code]",
+                  "description": "prinshul/WBC-Classification-UDA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2277,7 +2277,7 @@
             {
               "node_type": "item",
               "title": "Improving Semi-Supervised Domain Adaptation Using Effective Target Selection and Semantics [CVPRW2021]",
-              "description": "[Code]",
+              "description": "Anurag14/STar-framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2720,7 +2720,7 @@
             {
               "node_type": "item",
               "title": "Attract or Distract: Exploit the Margin of Open Set [ICCV2019]",
-              "description": "[code]",
+              "description": "qy-feng/Margin-Openset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2877,7 +2877,7 @@
             {
               "node_type": "item",
               "title": "Learning to Detect Open Classes for Universal Domain Adaptation [ECCV2020]",
-              "description": "[code]",
+              "description": "thuml/Calibrated-Multiple-Uncertainties",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3057,7 +3057,7 @@
             {
               "node_type": "item",
               "title": "Multi-source Distilling Domain Adaptation [AAAI2020]",
-              "description": "[code]",
+              "description": "daoyuan98/MDDA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3099,7 +3099,7 @@
             {
               "node_type": "item",
               "title": "Wasserstein Barycenter for Multi-Source Domain Adaptation [CVPR2021]",
-              "description": "[Code]",
+              "description": "eddardd/WBTransport",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4635,7 +4635,7 @@
                 {
                   "node_type": "item",
                   "title": "Correlation-aware Adversarial Domain Adaptation and Generalization [Pattern Recognition(2019)]",
-                  "description": "[code]",
+                  "description": "mahfujur1/CA-DA-DG",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4740,7 +4740,7 @@
                 {
                   "node_type": "item",
                   "title": "Cross-domain Detection via Graph-induced Prototype Alignment [CVPR2020 Oral]",
-                  "description": "[code]",
+                  "description": "ChrisAllenMing/GPA-detection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4761,7 +4761,7 @@
                 {
                   "node_type": "item",
                   "title": "Harmonizing Transferability and Discriminability for Adapting Object Detectors [CVPR2020]",
-                  "description": "[code]",
+                  "description": "chaoqichen/HTCN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4786,7 +4786,7 @@
                 {
                   "node_type": "item",
                   "title": "Exploring Categorical Regularization for Domain Adaptive Object Detection [CVPR2020]",
-                  "description": "[code]",
+                  "description": "megvii-research/CR-DA-DET",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4828,7 +4828,7 @@
                 {
                   "node_type": "item",
                   "title": "Cross-Domain Car Detection Using Unsupervised Image-to-Image Translation: From Day to Night [IJCNN2019 Oral]",
-                  "description": "[Project]",
+                  "description": "LCAD-UFES/publications-arruda-ijcnn-2019",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5111,7 +5111,7 @@
                 {
                   "node_type": "item",
                   "title": "Unsupervised Scene Adaptation with Memory Regularization in vivo [IJCAI2020]",
-                  "description": "[code]",
+                  "description": "layumi/Seg-Uncertainty",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5312,7 +5312,7 @@
                 {
                   "node_type": "item",
                   "title": "Category Anchor-Guided Unsupervised Domain Adaptation for Semantic Segmentation [NeurIPS2019]",
-                  "description": "[code]",
+                  "description": "RogerZhangzz/CAG_UDA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5391,7 +5391,7 @@
                 {
                   "node_type": "item",
                   "title": "DADA: Depth-aware Domain Adaptation in Semantic Segmentation [ICCV2019]",
-                  "description": "[code]",
+                  "description": "valeoai/DADA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6431,7 +6431,7 @@
                 {
                   "node_type": "item",
                   "title": "Video Unsupervised Domain Adaptation with Deep Learning: A Comprehensive Survey [17 Nov 2022]",
-                  "description": "[project]",
+                  "description": "xuyu0010/awesome-video-domain-adaptation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6740,7 +6740,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Meta Face Recognition in Unseen Domains [CVPR2020 Oral]",
-                  "description": "[code]",
+                  "description": "cleardusk/MFR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6767,7 +6767,7 @@
                 {
                   "node_type": "item",
                   "title": "PointDAN: A Multi-Scale 3D Domain Adaption Network for Point Cloud Representation [NeurIPS 2019]",
-                  "description": "[code]",
+                  "description": "canqin001/PointDAN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6809,7 +6809,7 @@
                 {
                   "node_type": "item",
                   "title": "Cross-Domain Document Object Detection: Benchmark Suite and Method [CVPR2020]",
-                  "description": "[code]",
+                  "description": "kailigo/cddod",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6830,7 +6830,7 @@
                 {
                   "node_type": "item",
                   "title": "Cross-domain fault diagnosis through optimal transport for a CSTR process [DYCOPS2022]",
-                  "description": "[Code]",
+                  "description": "eddardd/CrossDomainFaultDiagnosis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6857,7 +6857,7 @@
                 {
                   "node_type": "item",
                   "title": "Probability Weighted Compact Feature for Domain Adaptive Retrieval [CVPR2020]",
-                  "description": "[code]",
+                  "description": "fuxianghuang1/PWCF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -6878,7 +6878,7 @@
                 {
                   "node_type": "item",
                   "title": "Adapting Neural Architectures Between Domains [NeurlPS 2020]",
-                  "description": null,
+                  "description": "liyxi/AdaptNAS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -7081,7 +7081,7 @@
         {
           "node_type": "item",
           "title": "Transfer-Learning-Library",
-          "description": null,
+          "description": "thuml/Transfer-Learning-Library",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7114,7 +7114,7 @@
         {
           "node_type": "item",
           "title": "Dassl: a PyTorch toolbox for domain adaptation and semi-supervised learning",
-          "description": null,
+          "description": "KaiyangZhou/Dassl.pytorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7146,7 +7146,7 @@
         {
           "node_type": "item",
           "title": "deep-transfer-learning: a PyTorch library for deep transfer learning",
-          "description": null,
+          "description": "easezyc/deep-transfer-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7172,7 +7172,7 @@
         {
           "node_type": "item",
           "title": "joliGEN: an integrated framework for training custom generative AI image-to-image models",
-          "description": null,
+          "description": "jolibrain/joliGEN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:46:32.525Z",
+    "last_updated": "2026-10-03T04:43:52.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
