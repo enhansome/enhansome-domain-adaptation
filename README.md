@@ -129,7 +129,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Conference**
 
-* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [\[Tensorflow(Official)\]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) ⭐ 77,654 | 🐛 1,271 | 🌐 Python | 📅 2026-10-01 [\[Pytorch\]](https://github.com/vaibhavnaagar/pixelDA_GAN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2019-08-17
+* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [\[Tensorflow(Official)\]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) ⭐ 77,656 | 🐛 1,271 | 🌐 Python | 📅 2026-10-01 [\[Pytorch\]](https://github.com/vaibhavnaagar/pixelDA_GAN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2019-08-17
 * Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [\[CVPR2018\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf) [\[Pytorch(Official)\]](https://github.com/mil-tokyo/MCD_DA) ⭐ 575 | 🐛 27 | 🌐 Python | 📅 2022-10-07
 * CyCADA: Cycle-Consistent Adversarial Domain Adaptation [\[ICML2018\]](http://proceedings.mlr.press/v80/hoffman18a.html) [\[Pytorch(official)\]](https://github.com/jhoffman/cycada_release) ⭐ 566 | 🐛 15 | 🌐 Python | 📅 2021-09-23
 * Conditional Adversarial Domain Adaptation [\[NIPS2018\]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation) [\[Pytorch(official)\]](https://github.com/thuml/CDAN) ⭐ 421 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25  [\[Pytorch(third party)\]](https://github.com/thuml/CDAN) ⭐ 421 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25
@@ -614,7 +614,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Conference**
 
-* Open Compound Domain Adaptation [\[CVRP2020 Oral\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Open_Compound_Domain_Adaptation_CVPR_2020_paper.pdf) [\[Pytorch\]](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA) ⭐ 142 | 🐛 8 | 🌐 Python | 📅 2021-09-19
+* Open Compound Domain Adaptation [\[CVRP2020 Oral\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Open_Compound_Domain_Adaptation_CVPR_2020_paper.pdf) [\[Pytorch\]](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA) ⭐ 141 | 🐛 8 | 🌐 Python | 📅 2021-09-19
 * Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation [\[NeurIPS2020\]](https://proceedings.neurips.cc/paper/2020/file/7a9a322cbe0d06a98667fdc5160dc6f8-Paper.pdf)
 
 **Journal**
@@ -979,7 +979,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 * DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation [\[CVPR 2022\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Hoyer_DAFormer_Improving_Network_Architectures_and_Training_Strategies_for_Domain-Adaptive_Semantic_CVPR_2022_paper.pdf) [\[Pytorch\]](https://github.com/lhoyer/DAFormer) ⭐ 575 | 🐛 15 | 🌐 Python | 📅 2024-08-10
 * FDA: Fourier Domain Adaptation for Semantic Segmentation [\[CVPR2020\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FDA_Fourier_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2020_paper.pdf) [\[Pytorch\]](https://github.com/YanchaoYang/FDA/blob/master/SStrain.py) ⭐ 558 | 🐛 22 | 🌐 Python | 📅 2020-07-01
 * Unsupervised Scene Adaptation with Memory Regularization in vivo [\[IJCAI2020\]](https://arxiv.org/abs/1912.11164) [\[code\]](https://github.com/layumi/Seg-Uncertainty) ⭐ 397 | 🐛 9 | 🌐 Python | 📅 2025-10-24
-* ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation [\[CVPR2019 Oral\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vu_ADVENT_Adversarial_Entropy_Minimization_for_Domain_Adaptation_in_Semantic_Segmentation_CVPR_2019_paper.pdf) [\[Pytorch\]](https://github.com/valeoai/ADVENT) ⭐ 397 | 🐛 16 | 🌐 Python | 📅 2021-01-17
+* ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation [\[CVPR2019 Oral\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vu_ADVENT_Adversarial_Entropy_Minimization_for_Domain_Adaptation_in_Semantic_Segmentation_CVPR_2019_paper.pdf) [\[Pytorch\]](https://github.com/valeoai/ADVENT) ⭐ 396 | 🐛 16 | 🌐 Python | 📅 2021-01-17
 * MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation [\[CVPR 2023\]](https://arxiv.org/abs/2212.01322) [\[Pytorch\]](https://github.com/lhoyer/MIC) ⭐ 295 | 🐛 23 | 🌐 Python | 📅 2024-08-10
 * Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision [\[CVPR2020 Oral\]](https://arxiv.org/abs/2004.07703v1) [\[Pytorch\]](https://github.com/feipan664/IntraDA) ⭐ 275 | 🐛 2 | 🌐 Python | 📅 2023-12-08
 * HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation [\[ECCV 2022\]](https://arxiv.org/pdf/2204.13132) [\[Pytorch\]](https://github.com/lhoyer/HRDA) ⭐ 268 | 🐛 5 | 🌐 Python | 📅 2024-08-10
@@ -1299,8 +1299,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 # Other Resources
 
-* [transferlearning](https://github.com/jindongwang/transferlearning) ⭐ 14,356 | 🐛 23 | 🌐 Python | 📅 2025-02-18
+* [transferlearning](https://github.com/jindongwang/transferlearning) ⭐ 14,357 | 🐛 23 | 🌐 Python | 📅 2025-02-18
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
