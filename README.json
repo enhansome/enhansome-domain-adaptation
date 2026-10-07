@@ -134,7 +134,7 @@
                     "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77657,
+                    "stars": 77656,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -6266,7 +6266,7 @@
                     "open_issues": 2,
                     "owner": "olivesgatech",
                     "repo": "TA3N",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": [
                       "action-recognition",
                       "computer-vision",
@@ -6299,7 +6299,7 @@
                     "open_issues": 2,
                     "owner": "olivesgatech",
                     "repo": "TA3N",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": [
                       "action-recognition",
                       "computer-vision",
@@ -6987,7 +6987,7 @@
                 "open_issues": 12,
                 "owner": "hendrycks",
                 "repo": "robustness",
-                "stars": 1176,
+                "stars": 1177,
                 "topics": [
                   "computer-vision",
                   "convolutional-neural-networks",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:10:38.521Z",
+    "last_updated": "2026-10-07T02:09:02.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
@@ -7216,7 +7216,7 @@
       "open_issues": 1,
       "owner": "zhaoxin94",
       "repo": "awesome-domain-adaptation",
-      "stars": 5458,
+      "stars": 5457,
       "topics": [
         "adversarial-learning",
         "awesome-list",
