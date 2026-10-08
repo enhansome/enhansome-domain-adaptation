@@ -130,11 +130,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-01T16:19:37Z",
+                    "last_commit": "2026-10-07T22:41:53Z",
                     "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77656,
+                    "stars": 77655,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -3469,7 +3469,7 @@
                 "open_issues": 1,
                 "owner": "Albert0147",
                 "repo": "G-SFDA",
-                "stars": 110,
+                "stars": 111,
                 "topics": [
                   "domain-adaptation",
                   "iccv2021",
@@ -3672,7 +3672,7 @@
                 "open_issues": 0,
                 "owner": "tsun",
                 "repo": "APA",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "domain-adaptation"
                 ]
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:09:02.303Z",
+    "last_updated": "2026-10-08T02:34:50.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
@@ -7216,7 +7216,7 @@
       "open_issues": 1,
       "owner": "zhaoxin94",
       "repo": "awesome-domain-adaptation",
-      "stars": 5457,
+      "stars": 5458,
       "topics": [
         "adversarial-learning",
         "awesome-list",
