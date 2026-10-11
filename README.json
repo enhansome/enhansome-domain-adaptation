@@ -134,7 +134,7 @@
                     "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77652,
+                    "stars": 77650,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -6621,7 +6621,7 @@
                     "open_issues": 1,
                     "owner": "saltoricristiano",
                     "repo": "cosmix-uda",
-                    "stars": 72,
+                    "stars": 71,
                     "topics": [
                       "3d",
                       "domain-adaptation",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:09:10.070Z",
+    "last_updated": "2026-10-11T01:35:55.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
