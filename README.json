@@ -134,7 +134,7 @@
                     "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77649,
+                    "stars": 77646,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -2166,7 +2166,7 @@
                     "open_issues": 3,
                     "owner": "zhyx12",
                     "repo": "EIDCo",
-                    "stars": 9,
+                    "stars": 10,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -3439,7 +3439,7 @@
                 "open_issues": 4,
                 "owner": "tim-learn",
                 "repo": "SHOT",
-                "stars": 498,
+                "stars": 499,
                 "topics": [
                   "domain-adaptation",
                   "icml-2020",
@@ -4070,7 +4070,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1432,
+                    "stars": 1431,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -7127,7 +7127,7 @@
             "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1432,
+            "stars": 1431,
             "topics": [
               "artificial-intelligence",
               "benchmark-datasets",
@@ -7159,7 +7159,7 @@
             "open_issues": 7,
             "owner": "easezyc",
             "repo": "deep-transfer-learning",
-            "stars": 962,
+            "stars": 961,
             "topics": [
               "deep-transfer-learning",
               "domain-adaptation",
@@ -7181,8 +7181,8 @@
             "id": 288411806,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T06:16:49Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-12T12:09:21Z",
+            "open_issues": 38,
             "owner": "jolibrain",
             "repo": "joliGEN",
             "stars": 290,
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:08:14.984Z",
+    "last_updated": "2026-10-13T03:23:04.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
@@ -7216,7 +7216,7 @@
       "open_issues": 1,
       "owner": "zhaoxin94",
       "repo": "awesome-domain-adaptation",
-      "stars": 5456,
+      "stars": 5455,
       "topics": [
         "adversarial-learning",
         "awesome-list",
