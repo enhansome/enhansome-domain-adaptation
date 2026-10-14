@@ -130,11 +130,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-07T22:41:53Z",
-                    "open_issues": 1271,
+                    "last_commit": "2026-10-13T04:11:20Z",
+                    "open_issues": 1272,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77646,
+                    "stars": 77649,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -4070,7 +4070,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1431,
+                    "stars": 1430,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -4213,7 +4213,7 @@
                     "open_issues": 3,
                     "owner": "HeliosZhao",
                     "repo": "M3L",
-                    "stars": 66,
+                    "stars": 67,
                     "topics": [
                       "cvpr2021",
                       "personreid"
@@ -5022,7 +5022,7 @@
                     "open_issues": 1,
                     "owner": "RoyalVane",
                     "repo": "CLAN",
-                    "stars": 1289,
+                    "stars": 1288,
                     "topics": [
                       "adversarial-learning",
                       "domain-adaptation",
@@ -6140,7 +6140,7 @@
                     "open_issues": 3,
                     "owner": "HeliosZhao",
                     "repo": "M3L",
-                    "stars": 66,
+                    "stars": 67,
                     "topics": [
                       "cvpr2021",
                       "personreid"
@@ -7127,7 +7127,7 @@
             "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1431,
+            "stars": 1430,
             "topics": [
               "artificial-intelligence",
               "benchmark-datasets",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:23:04.176Z",
+    "last_updated": "2026-10-14T01:39:37.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
