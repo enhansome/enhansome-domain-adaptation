@@ -134,7 +134,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648,
+                    "stars": 77645,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -5103,7 +5103,7 @@
                     "open_issues": 22,
                     "owner": "YanchaoYang",
                     "repo": "FDA",
-                    "stars": 558,
+                    "stars": 559,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -7018,7 +7018,7 @@
                 "open_issues": 34,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 853,
+                "stars": 854,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:16:02.676Z",
+    "last_updated": "2026-10-16T01:01:41.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
@@ -7216,7 +7216,7 @@
       "open_issues": 1,
       "owner": "zhaoxin94",
       "repo": "awesome-domain-adaptation",
-      "stars": 5455,
+      "stars": 5456,
       "topics": [
         "adversarial-learning",
         "awesome-list",
