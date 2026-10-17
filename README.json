@@ -5161,7 +5161,7 @@
                     "open_issues": 16,
                     "owner": "valeoai",
                     "repo": "ADVENT",
-                    "stars": 396,
+                    "stars": 395,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -5203,7 +5203,7 @@
                     "open_issues": 2,
                     "owner": "feipanir",
                     "repo": "IntraDA",
-                    "stars": 275,
+                    "stars": 274,
                     "topics": [
                       "domain-adaptation",
                       "pytorch",
@@ -7181,8 +7181,8 @@
             "id": 288411806,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T12:09:21Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-16T10:56:24Z",
+            "open_issues": 38,
             "owner": "jolibrain",
             "repo": "joliGEN",
             "stars": 290,
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T01:01:41.858Z",
+    "last_updated": "2026-10-17T01:08:03.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
@@ -7216,7 +7216,7 @@
       "open_issues": 1,
       "owner": "zhaoxin94",
       "repo": "awesome-domain-adaptation",
-      "stars": 5456,
+      "stars": 5455,
       "topics": [
         "adversarial-learning",
         "awesome-list",
