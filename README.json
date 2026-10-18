@@ -134,7 +134,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77645,
+                    "stars": 77646,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -4070,7 +4070,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1430,
+                    "stars": 1431,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -7127,7 +7127,7 @@
             "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1430,
+            "stars": 1431,
             "topics": [
               "artificial-intelligence",
               "benchmark-datasets",
@@ -7159,7 +7159,7 @@
             "open_issues": 7,
             "owner": "easezyc",
             "repo": "deep-transfer-learning",
-            "stars": 961,
+            "stars": 962,
             "topics": [
               "deep-transfer-learning",
               "domain-adaptation",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T01:08:03.042Z",
+    "last_updated": "2026-10-18T00:41:35.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
