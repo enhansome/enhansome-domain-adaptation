@@ -134,7 +134,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77644,
+                    "stars": 77645,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -197,7 +197,7 @@
                     "open_issues": 15,
                     "owner": "thuml",
                     "repo": "CDAN",
-                    "stars": 421,
+                    "stars": 422,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -2290,7 +2290,7 @@
                 "open_issues": 0,
                 "owner": "Anurag14",
                 "repo": "STar-framework",
-                "stars": 8,
+                "stars": 7,
                 "topics": [
                   "active-learning",
                   "domain-adaptation",
@@ -3411,7 +3411,7 @@
                 "open_issues": 3,
                 "owner": "hehaodele",
                 "repo": "CIDA",
-                "stars": 122,
+                "stars": 123,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:47:41.594Z"
@@ -5077,7 +5077,7 @@
                     "open_issues": 15,
                     "owner": "lhoyer",
                     "repo": "DAFormer",
-                    "stars": 575,
+                    "stars": 576,
                     "topics": [
                       "cvpr2022",
                       "semantic-segmentation",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T00:53:28.662Z",
+    "last_updated": "2026-10-20T01:37:09.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
