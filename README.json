@@ -130,11 +130,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-13T04:11:20Z",
+                    "last_commit": "2026-10-20T17:11:38Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77645,
+                    "stars": 77647,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -4150,7 +4150,7 @@
                     "open_issues": 6,
                     "owner": "DeLightCMU",
                     "repo": "RSC",
-                    "stars": 166,
+                    "stars": 167,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T01:37:09.979Z",
+    "last_updated": "2026-10-21T01:21:27.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
