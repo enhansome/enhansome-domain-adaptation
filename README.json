@@ -130,11 +130,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-20T17:11:38Z",
+                    "last_commit": "2026-10-21T16:25:32Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77647,
+                    "stars": 77648,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -1797,7 +1797,7 @@
                     "open_issues": 2,
                     "owner": "XJTU-XGU",
                     "repo": "RSDA",
-                    "stars": 62,
+                    "stars": 63,
                     "topics": [
                       "domain-adaptation",
                       "semi-supervised-domain-adaptation"
@@ -7182,7 +7182,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-16T10:56:24Z",
-            "open_issues": 38,
+            "open_issues": 40,
             "owner": "jolibrain",
             "repo": "joliGEN",
             "stars": 290,
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T01:21:27.172Z",
+    "last_updated": "2026-10-22T01:18:19.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
