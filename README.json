@@ -130,11 +130,11 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-21T16:25:32Z",
+                    "last_commit": "2026-10-22T17:38:40Z",
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77648,
+                    "stars": 77646,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -2072,7 +2072,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2021-02-24T01:12:54Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "iiyama-lab",
                     "repo": "PS-VAEs",
                     "stars": 2,
@@ -4129,7 +4129,7 @@
                     "open_issues": 26,
                     "owner": "fmcarlucci",
                     "repo": "JigenDG",
-                    "stars": 251,
+                    "stars": 250,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -4279,7 +4279,7 @@
                     "open_issues": 6,
                     "owner": "HAHA-DL",
                     "repo": "Episodic-DG",
-                    "stars": 58,
+                    "stars": 57,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -7018,7 +7018,7 @@
                 "open_issues": 34,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 855,
+                "stars": 856,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T01:18:19.012Z",
+    "last_updated": "2026-10-23T01:17:33.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
@@ -7216,7 +7216,7 @@
       "open_issues": 1,
       "owner": "zhaoxin94",
       "repo": "awesome-domain-adaptation",
-      "stars": 5455,
+      "stars": 5456,
       "topics": [
         "adversarial-learning",
         "awesome-list",
