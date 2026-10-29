@@ -130,8 +130,8 @@
                     "id": 51117837,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-27T18:26:26Z",
-                    "open_issues": 1274,
+                    "last_commit": "2026-10-29T01:00:19Z",
+                    "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
                     "stars": 77645,
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T02:02:44.325Z",
+    "last_updated": "2026-10-29T02:10:58.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
