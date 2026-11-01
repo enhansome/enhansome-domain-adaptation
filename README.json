@@ -134,7 +134,7 @@
                     "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77642,
+                    "stars": 77638,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -176,7 +176,7 @@
                     "open_issues": 15,
                     "owner": "jhoffman",
                     "repo": "cycada_release",
-                    "stars": 566,
+                    "stars": 567,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -7015,7 +7015,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2025-08-09T14:08:25Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
                 "stars": 857,
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T02:04:13.088Z",
+    "last_updated": "2026-11-01T01:55:43.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
