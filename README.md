@@ -634,7 +634,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 * Multi-Domain Adversarial Learning [\[ICLR2019\]](https://openreview.net/forum?id=Sklv5iRqYX) [\[Torch\]](https://github.com/AltschulerWu-Lab/MuLANN) ⭐ 39 | 🐛 2 | 🌐 Lua | 📅 2021-01-20
 * Wasserstein Barycenter for Multi-Source Domain Adaptation [\[CVPR2021\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Montesuma_Wasserstein_Barycenter_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.pdf) [\[Code\]](https://github.com/eddardd/WBTransport) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2022-08-31
 * Deep Cocktail Network: Multi-source Unsupervised Domain Adaptation with Category Shift [\[CVPR2018\]](https://arxiv.org/abs/1803.00830) [\[Pytorch\]](https://github.com/HCPLab-SYSU/MSDA) ⭐ 29 | 🐛 2 | 🌐 Python | 📅 2018-05-02
-* Confident Anchor-Induced Multi-Source Free Domain Adaptation [\[NeurIPS2021\]](https://proceedings.neurips.cc/paper/2021/hash/168908dd3227b8358eababa07fcaf091-Abstract.html) [\[code is coming soon\]](https://github.com/Learning-group123/CAiDA) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2022-06-02
+* Confident Anchor-Induced Multi-Source Free Domain Adaptation [\[NeurIPS2021\]](https://proceedings.neurips.cc/paper/2021/hash/168908dd3227b8358eababa07fcaf091-Abstract.html) [\[code is coming soon\]](https://github.com/Learning-group123/CAiDA) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2022-06-02
 * Boosting Domain Adaptation by Discovering Latent Domains [\[CVPR2018\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mancini_Boosting_Domain_Adaptation_CVPR_2018_paper.pdf) [\[Caffe\]](https://github.com/mancinimassimiliano/latent_domains_DA) ⭐ 23 | 🐛 0 | 🌐 C++ | 📅 2020-08-12 [\[Pytorch\]](https://github.com/mancinimassimiliano/pytorch_wbn) ⭐ 37 | 🐛 1 | 🌐 Python | 📅 2020-06-30
 * mDALU: Multi-Source Domain Adaptation and Label Unification With Partial Datasets [\[ICCV2021\]](https://openaccess.thecvf.com/content/ICCV2021/html/Gong_mDALU_Multi-Source_Domain_Adaptation_and_Label_Unification_With_Partial_Datasets_ICCV_2021_paper.html)
 * STEM: An Approach to Multi-Source Domain Adaptation With Guarantees [\[ICCV2021\]](https://openaccess.thecvf.com/content/ICCV2021/html/Nguyen_STEM_An_Approach_to_Multi-Source_Domain_Adaptation_With_Guarantees_ICCV_2021_paper.html)
@@ -749,8 +749,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 * Unsupervised Multi-source Domain Adaptation Without Access to Source Data [\[CVPR2021\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ahmed_Unsupervised_Multi-Source_Domain_Adaptation_Without_Access_to_Source_Data_CVPR_2021_paper.pdf) [\[Pytorch\]](https://github.com/driptaRC/DECISION) ⭐ 60 | 🐛 3 | 🌐 Python | 📅 2022-07-09
 * Model Adaptation: Historical Contrastive Learning for Unsupervised Domain Adaptation without Source Data [\[NeurIPS2021\]](https://proceedings.neurips.cc/paper/2021/hash/1dba5eed8838571e1c80af145184e515-Abstract.html) [\[Pytorch\]](https://github.com/jxhuang0508/HCL) ⭐ 51 | 🐛 4 | 🌐 Python | 📅 2022-07-24
 * Source-free Domain Adaptation via Avatar Prototype Generation and Adaptation [\[IJCAI2021\]](https://arxiv.org/abs/2106.15326) [\[Pytorch\]](https://github.com/SCUT-AILab/CPGA) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2023-10-24
-* Confident Anchor-Induced Multi-Source Free Domain Adaptation [\[NeurIPS2021\]](https://proceedings.neurips.cc/paper/2021/hash/168908dd3227b8358eababa07fcaf091-Abstract.html) [\[Pytorch\]](https://github.com/Learning-group123/CAiDA) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2022-06-02
 * Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition [\[ECCV2022\]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940144.pdf) [\[Pytorch\]](https://github.com/xuyu0010/ATCoN) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2023-03-09 [\[Project\]](https://xuyu0010.github.io/sfvda.html)
+* Confident Anchor-Induced Multi-Source Free Domain Adaptation [\[NeurIPS2021\]](https://proceedings.neurips.cc/paper/2021/hash/168908dd3227b8358eababa07fcaf091-Abstract.html) [\[Pytorch\]](https://github.com/Learning-group123/CAiDA) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2022-06-02
 * CoNMix for Source-free Single and Multi-target Domain Adaptation [\[WACV2022\]](https://openaccess.thecvf.com/content/WACV2023/html/Kumar_CoNMix_for_Source-Free_Single_and_Multi-Target_Domain_Adaptation_WACV_2023_paper.html) [\[Pytorch\]](https://github.com/vcl-iisc/CoNMix) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2023-02-08
 * Domain Adaptation with Adversarial Training on Penultimate Activations [\[AAAI2023\]](https://ojs.aaai.org/index.php/AAAI/article/view/26185) [\[Pytorch\]](https://github.com/tsun/APA) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-08-01
 * Source-free Domain Adaptive Human Pose Estimation [\[ICCV2023\]](https://arxiv.org/abs/2308.03202)[\[Pytorch\]](https://github.com/davidpengucf/SFDAHPE) ⭐ 11 | 🐛 5 | 🌐 Python | 📅 2023-08-17
@@ -1280,7 +1280,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 ## Benchmarks
 
 * Benchmarking Neural Network Robustness to Common Corruptions and Perturbations (ImageNet-C) [\[ICLR 2019\]](https://arxiv.org/abs/1903.12261) [\[PyTorch\]](https://github.com/hendrycks/robustness) ⭐ 1,178 | 🐛 12 | 🌐 Python | 📅 2022-08-24
-* LLVIP: A Visible-infrared Paired Dataset for Low-light Vision [\[ICCV Workshop 2021\]](https://arxiv.org/abs/2108.10831) [\[Pytorch\]](https://github.com/bupt-ai-cz/LLVIP) ⭐ 857 | 🐛 35 | 🌐 Jupyter Notebook | 📅 2025-08-09
+* LLVIP: A Visible-infrared Paired Dataset for Low-light Vision [\[ICCV Workshop 2021\]](https://arxiv.org/abs/2108.10831) [\[Pytorch\]](https://github.com/bupt-ai-cz/LLVIP) ⭐ 858 | 🐛 35 | 🌐 Jupyter Notebook | 📅 2025-08-09
 * Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [\[ICCV Workshop 2021\]](https://arxiv.org/abs/2108.10840) [\[Pytorch\]](https://github.com/bupt-ai-cz/Meta-SelfLearning) ⭐ 204 | 🐛 2 | 🌐 Python | 📅 2025-04-25
 * Kurcuma: a kitchen utensil recognition collection for unsupervised domain adaptation [\[PAA2023\]](https://link.springer.com/article/10.1007/s10044-023-01147-x) [\[Dataset\]](https://www.dlsi.ua.es/~jgallego/datasets/kurcuma/)
 * Syn2Real: A New Benchmark forSynthetic-to-Real Visual Domain Adaptation [\[arXiv 26 Jun\]](https://arxiv.org/abs/1806.09755v1) [\[Project\]](http://ai.bu.edu/syn2real/)
@@ -1299,8 +1299,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 # Other Resources
 
-* [transferlearning](https://github.com/jindongwang/transferlearning) ⭐ 14,377 | 🐛 23 | 🌐 Python | 📅 2025-02-18
+* [transferlearning](https://github.com/jindongwang/transferlearning) ⭐ 14,379 | 🐛 23 | 🌐 Python | 📅 2025-02-18
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._

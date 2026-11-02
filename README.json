@@ -3164,7 +3164,7 @@
                 "open_issues": 1,
                 "owner": "Learning-group123",
                 "repo": "CAiDA",
-                "stars": 25,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:47:41.594Z"
@@ -3595,27 +3595,6 @@
             },
             {
               "node_type": "item",
-              "title": "Confident Anchor-Induced Multi-Source Free Domain Adaptation [NeurIPS2021]",
-              "description": "[Pytorch]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code for CAiDA",
-                "homepage": null,
-                "id": 420501861,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2022-06-02T20:38:20Z",
-                "open_issues": 1,
-                "owner": "Learning-group123",
-                "repo": "CAiDA",
-                "stars": 25,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:47:41.594Z"
-            },
-            {
-              "node_type": "item",
               "title": "Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition [ECCV2022]",
               "description": "[Pytorch] [Project]",
               "children": [],
@@ -3630,6 +3609,27 @@
                 "open_issues": 1,
                 "owner": "xuyu0010",
                 "repo": "ATCoN",
+                "stars": 24,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:47:41.594Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Confident Anchor-Induced Multi-Source Free Domain Adaptation [NeurIPS2021]",
+              "description": "[Pytorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for CAiDA",
+                "homepage": null,
+                "id": 420501861,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2022-06-02T20:38:20Z",
+                "open_issues": 1,
+                "owner": "Learning-group123",
+                "repo": "CAiDA",
                 "stars": 24,
                 "topics": []
               },
@@ -7018,7 +7018,7 @@
                 "open_issues": 35,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 857,
+                "stars": 858,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T01:55:43.186Z",
+    "last_updated": "2026-11-02T02:08:57.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
