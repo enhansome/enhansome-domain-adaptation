@@ -134,7 +134,7 @@
                     "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77636,
+                    "stars": 77637,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -6559,7 +6559,7 @@
                     "open_issues": 2,
                     "owner": "darrenjkt",
                     "repo": "MS3D",
-                    "stars": 208,
+                    "stars": 209,
                     "topics": [
                       "3d-object-detection",
                       "domain-adaptation",
@@ -7018,7 +7018,7 @@
                 "open_issues": 35,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 857,
+                "stars": 858,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -7094,7 +7094,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3943,
+            "stars": 3944,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:51:15.821Z",
+    "last_updated": "2026-11-04T02:56:07.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
@@ -7216,7 +7216,7 @@
       "open_issues": 1,
       "owner": "zhaoxin94",
       "repo": "awesome-domain-adaptation",
-      "stars": 5461,
+      "stars": 5462,
       "topics": [
         "adversarial-learning",
         "awesome-list",
