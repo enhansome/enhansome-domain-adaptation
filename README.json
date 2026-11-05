@@ -134,7 +134,7 @@
                     "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77637,
+                    "stars": 77634,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -5470,7 +5470,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2020-10-12T23:52:27Z",
-                    "open_issues": 5,
+                    "open_issues": 4,
                     "owner": "MyeongJin-Kim",
                     "repo": "Learning-Texture-Invariant-Representation",
                     "stars": 105,
@@ -7094,7 +7094,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3944,
+            "stars": 3945,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:56:07.288Z",
+    "last_updated": "2026-11-05T03:15:44.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
@@ -7216,7 +7216,7 @@
       "open_issues": 1,
       "owner": "zhaoxin94",
       "repo": "awesome-domain-adaptation",
-      "stars": 5462,
+      "stars": 5463,
       "topics": [
         "adversarial-learning",
         "awesome-list",
