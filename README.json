@@ -1508,7 +1508,7 @@
                     "open_issues": 18,
                     "owner": "kgl-prml",
                     "repo": "Contrastive-Adaptation-Network-for-Unsupervised-Domain-Adaptation",
-                    "stars": 349,
+                    "stars": 348,
                     "topics": [
                       "unsupervised-domain-adaptation"
                     ]
@@ -4070,7 +4070,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1430,
+                    "stars": 1431,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -5507,27 +5507,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Pixel-Level Cycle Association: A New Perspective for Domain Adaptive Semantic Segmentation [NeurlIPS 2020]",
-                  "description": "[Pytorch]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Pytorch Implementation for NeurIPS (oral) paper: Pixel Level Cycle Association: A New Perspective for Domain Adaptive Semantic Segmentation",
-                    "homepage": null,
-                    "id": 305913057,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2021-08-07T02:09:50Z",
-                    "open_issues": 1,
-                    "owner": "kgl-prml",
-                    "repo": "Pixel-Level-Cycle-Association",
-                    "stars": 94,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:47:41.594Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Content-Consistent Matching for Domain Adaptive Semantic Segmentation [ECCV2020]",
                   "description": "[PyTorch]",
                   "children": [],
@@ -5549,6 +5528,27 @@
                       "pytorch",
                       "semantic-segmentation"
                     ]
+                  },
+                  "first_seen": "2026-08-28T06:47:41.594Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Pixel-Level Cycle Association: A New Perspective for Domain Adaptive Semantic Segmentation [NeurlIPS 2020]",
+                  "description": "[Pytorch]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Pytorch Implementation for NeurIPS (oral) paper: Pixel Level Cycle Association: A New Perspective for Domain Adaptive Semantic Segmentation",
+                    "homepage": null,
+                    "id": 305913057,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2021-08-07T02:09:50Z",
+                    "open_issues": 1,
+                    "owner": "kgl-prml",
+                    "repo": "Pixel-Level-Cycle-Association",
+                    "stars": 93,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
                 },
@@ -7127,7 +7127,7 @@
             "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1430,
+            "stars": 1431,
             "topics": [
               "artificial-intelligence",
               "benchmark-datasets",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T03:15:44.722Z",
+    "last_updated": "2026-11-06T03:15:48.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
