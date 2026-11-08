@@ -18,7 +18,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-01-18T05:21:20Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "xuyu0010",
                 "repo": "awesome-video-domain-adaptation",
                 "stars": 115,
@@ -134,7 +134,7 @@
                     "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77635,
+                    "stars": 77634,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -6441,7 +6441,7 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2025-01-18T05:21:20Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "xuyu0010",
                     "repo": "awesome-video-domain-adaptation",
                     "stars": 115,
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T02:34:13.485Z",
+    "last_updated": "2026-11-08T02:05:46.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
@@ -7213,7 +7213,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-12-08T06:04:32Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "zhaoxin94",
       "repo": "awesome-domain-adaptation",
       "stars": 5463,
