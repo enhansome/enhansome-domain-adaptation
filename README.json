@@ -134,7 +134,7 @@
                     "open_issues": 1276,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77634,
+                    "stars": 77635,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -5491,7 +5491,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-07-23T03:57:21Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "chen742",
                     "repo": "PiPa",
                     "stars": 99,
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:05:46.600Z",
+    "last_updated": "2026-11-09T02:25:35.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
