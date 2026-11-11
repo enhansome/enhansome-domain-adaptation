@@ -134,7 +134,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77634,
+                    "stars": 77636,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -1508,7 +1508,7 @@
                     "open_issues": 18,
                     "owner": "kgl-prml",
                     "repo": "Contrastive-Adaptation-Network-for-Unsupervised-Domain-Adaptation",
-                    "stars": 348,
+                    "stars": 349,
                     "topics": [
                       "unsupervised-domain-adaptation"
                     ]
@@ -5077,7 +5077,7 @@
                     "open_issues": 15,
                     "owner": "lhoyer",
                     "repo": "DAFormer",
-                    "stars": 576,
+                    "stars": 577,
                     "topics": [
                       "cvpr2022",
                       "semantic-segmentation",
@@ -6780,7 +6780,7 @@
                     "open_issues": 5,
                     "owner": "canqin001",
                     "repo": "PointDAN",
-                    "stars": 135,
+                    "stars": 136,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:30:12.742Z",
+    "last_updated": "2026-11-11T02:34:06.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
@@ -7216,7 +7216,7 @@
       "open_issues": 2,
       "owner": "zhaoxin94",
       "repo": "awesome-domain-adaptation",
-      "stars": 5463,
+      "stars": 5464,
       "topics": [
         "adversarial-learning",
         "awesome-list",
