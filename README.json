@@ -134,7 +134,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77636,
+                    "stars": 77635,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -356,7 +356,7 @@
                     "open_issues": 12,
                     "owner": "ddtm",
                     "repo": "caffe",
-                    "stars": 137,
+                    "stars": 136,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -4070,7 +4070,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1431,
+                    "stars": 1430,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -7018,7 +7018,7 @@
                 "open_issues": 35,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 858,
+                "stars": 859,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -7094,7 +7094,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3946,
+            "stars": 3948,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -7127,7 +7127,7 @@
             "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1431,
+            "stars": 1430,
             "topics": [
               "artificial-intelligence",
               "benchmark-datasets",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T02:34:06.775Z",
+    "last_updated": "2026-11-12T03:38:50.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
@@ -7216,7 +7216,7 @@
       "open_issues": 2,
       "owner": "zhaoxin94",
       "repo": "awesome-domain-adaptation",
-      "stars": 5464,
+      "stars": 5463,
       "topics": [
         "adversarial-learning",
         "awesome-list",
