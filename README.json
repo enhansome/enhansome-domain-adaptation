@@ -134,7 +134,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77635,
+                    "stars": 77634,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -332,7 +332,7 @@
                     "open_issues": 4,
                     "owner": "JDAI-CV",
                     "repo": "FADA",
-                    "stars": 141,
+                    "stars": 142,
                     "topics": [
                       "domain-adaptation",
                       "semantic-segmentation"
@@ -5182,7 +5182,7 @@
                     "open_issues": 23,
                     "owner": "lhoyer",
                     "repo": "MIC",
-                    "stars": 295,
+                    "stars": 296,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T03:38:50.930Z",
+    "last_updated": "2026-11-13T03:12:19.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
