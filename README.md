@@ -129,7 +129,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Conference**
 
-* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [\[Tensorflow(Official)\]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) ⭐ 77,633 | 🐛 1,274 | 🌐 Python | 📅 2026-11-02 [\[Pytorch\]](https://github.com/vaibhavnaagar/pixelDA_GAN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2019-08-17
+* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [\[Tensorflow(Official)\]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) ⭐ 77,632 | 🐛 1,274 | 🌐 Python | 📅 2026-11-02 [\[Pytorch\]](https://github.com/vaibhavnaagar/pixelDA_GAN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2019-08-17
 * Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [\[CVPR2018\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf) [\[Pytorch(Official)\]](https://github.com/mil-tokyo/MCD_DA) ⭐ 575 | 🐛 27 | 🌐 Python | 📅 2022-10-07
 * CyCADA: Cycle-Consistent Adversarial Domain Adaptation [\[ICML2018\]](http://proceedings.mlr.press/v80/hoffman18a.html) [\[Pytorch(official)\]](https://github.com/jhoffman/cycada_release) ⭐ 567 | 🐛 15 | 🌐 Python | 📅 2021-09-23
 * Conditional Adversarial Domain Adaptation [\[NIPS2018\]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation) [\[Pytorch(official)\]](https://github.com/thuml/CDAN) ⭐ 423 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25  [\[Pytorch(third party)\]](https://github.com/thuml/CDAN) ⭐ 423 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25
@@ -1089,8 +1089,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Conference**
 
-* Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification [\[ICLR2020\]](https://openreview.net/forum?id=rJlnOhVYPS) [\[Pytorch\]](https://github.com/yxgeee/MMT) ⭐ 479 | 🐛 6 | 🌐 Python | 📅 2024-07-25
-* Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification [\[CVPR2019\]](https://arxiv.org/abs/1904.01990v1) [\[Pytorch\]](https://github.com/zhunzhong07/ECN) ⭐ 304 | 🐛 8 | 🌐 Python | 📅 2019-07-18
+* Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification [\[ICLR2020\]](https://openreview.net/forum?id=rJlnOhVYPS) [\[Pytorch\]](https://github.com/yxgeee/MMT) ⭐ 480 | 🐛 6 | 🌐 Python | 📅 2024-07-25
+* Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification [\[CVPR2019\]](https://arxiv.org/abs/1904.01990v1) [\[Pytorch\]](https://github.com/zhunzhong07/ECN) ⭐ 305 | 🐛 8 | 🌐 Python | 📅 2019-07-18
 * Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification [\[ICCV2019 Oral\]](https://arxiv.org/abs/1811.10144) [\[Pytorch\]](https://github.com/OasisYang/SSG) ⭐ 187 | 🐛 24 | 🌐 Python | 📅 2020-05-09
 * Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification [\[CVPR 2021\]](https://arxiv.org/pdf/2012.00417.pdf) [\[Pytorch\]](https://github.com/HeliosZhao/M3L) ⭐ 67 | 🐛 3 | 🌐 Python | 📅 2021-06-23
 * Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data [\[SPIE2025\]](https://doi.org/10.1117/12.3058627) [\[Pytorch\]](https://github.com/PrasannaPulakurthi/Foreground-Background-Augmentation) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-01-06
@@ -1113,7 +1113,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Arxiv**
 
-* EANet: Enhancing Alignment for Cross-Domain Person Re-identification [\[arXiv 29 Dec 2018\]](https://arxiv.org/abs/1812.11369) [\[Pytorch\]](https://github.com/huanghoujing/EANet) ⭐ 397 | 🐛 27 | 🌐 Python | 📅 2020-12-29
+* EANet: Enhancing Alignment for Cross-Domain Person Re-identification [\[arXiv 29 Dec 2018\]](https://arxiv.org/abs/1812.11369) [\[Pytorch\]](https://github.com/huanghoujing/EANet) ⭐ 398 | 🐛 27 | 🌐 Python | 📅 2020-12-29
 * Domain Adaptation for Semantic Segmentation via Patch-Wise Contrastive Learning [\[arXiv 22 Apr 2021\]](https://arxiv.org/abs/2104.11056)
 * Structured Domain Adaptation for Unsupervised Person Re-identification [\[arXiv 14 Mar 2020\]](https://arxiv.org/abs/2003.06650)
 * Domain Adaptive Attention Model for Unsupervised Cross-Domain Person Re-Identification [\[arXiv 25 May 2019\]](https://arxiv.org/abs/1905.10529)
@@ -1280,14 +1280,14 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 ## Benchmarks
 
 * Benchmarking Neural Network Robustness to Common Corruptions and Perturbations (ImageNet-C) [\[ICLR 2019\]](https://arxiv.org/abs/1903.12261) [\[PyTorch\]](https://github.com/hendrycks/robustness) ⭐ 1,178 | 🐛 12 | 🌐 Python | 📅 2022-08-24
-* LLVIP: A Visible-infrared Paired Dataset for Low-light Vision [\[ICCV Workshop 2021\]](https://arxiv.org/abs/2108.10831) [\[Pytorch\]](https://github.com/bupt-ai-cz/LLVIP) ⭐ 859 | 🐛 35 | 🌐 Jupyter Notebook | 📅 2025-08-09
+* LLVIP: A Visible-infrared Paired Dataset for Low-light Vision [\[ICCV Workshop 2021\]](https://arxiv.org/abs/2108.10831) [\[Pytorch\]](https://github.com/bupt-ai-cz/LLVIP) ⭐ 860 | 🐛 35 | 🌐 Jupyter Notebook | 📅 2025-08-09
 * Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [\[ICCV Workshop 2021\]](https://arxiv.org/abs/2108.10840) [\[Pytorch\]](https://github.com/bupt-ai-cz/Meta-SelfLearning) ⭐ 204 | 🐛 2 | 🌐 Python | 📅 2025-04-25
 * Kurcuma: a kitchen utensil recognition collection for unsupervised domain adaptation [\[PAA2023\]](https://link.springer.com/article/10.1007/s10044-023-01147-x) [\[Dataset\]](https://www.dlsi.ua.es/~jgallego/datasets/kurcuma/)
 * Syn2Real: A New Benchmark forSynthetic-to-Real Visual Domain Adaptation [\[arXiv 26 Jun\]](https://arxiv.org/abs/1806.09755v1) [\[Project\]](http://ai.bu.edu/syn2real/)
 
 # Library
 
-* [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,948 | 🐛 19 | 🌐 Python | 📅 2024-05-10
+* [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,950 | 🐛 19 | 🌐 Python | 📅 2024-05-10
 * [Dassl: a PyTorch toolbox for domain adaptation and semi-supervised learning](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,430 | 🐛 29 | 🌐 Python | 📅 2023-11-03
 * [deep-transfer-learning: a PyTorch library for deep transfer learning](https://github.com/easezyc/deep-transfer-learning) ⭐ 962 | 🐛 7 | 🌐 Python | 📅 2022-03-03
 * [joliGEN: an integrated framework for training custom generative AI image-to-image models](https://github.com/jolibrain/joliGEN) ⭐ 290 | 🐛 42 | 🌐 Python | 📅 2026-10-27
@@ -1299,8 +1299,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 # Other Resources
 
-* [transferlearning](https://github.com/jindongwang/transferlearning) ⭐ 14,388 | 🐛 23 | 🌐 Python | 📅 2025-02-18
+* [transferlearning](https://github.com/jindongwang/transferlearning) ⭐ 14,387 | 🐛 23 | 🌐 Python | 📅 2025-02-18
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
