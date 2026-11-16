@@ -134,7 +134,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77632,
+                    "stars": 77629,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -155,7 +155,7 @@
                     "open_issues": 27,
                     "owner": "mil-tokyo",
                     "repo": "MCD_DA",
-                    "stars": 575,
+                    "stars": 576,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -6559,7 +6559,7 @@
                     "open_issues": 2,
                     "owner": "darrenjkt",
                     "repo": "MS3D",
-                    "stars": 209,
+                    "stars": 210,
                     "topics": [
                       "3d-object-detection",
                       "domain-adaptation",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:26:04.628Z",
+    "last_updated": "2026-11-16T02:36:04.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
