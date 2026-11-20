@@ -134,7 +134,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77628,
+                    "stars": 77631,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -176,7 +176,7 @@
                     "open_issues": 15,
                     "owner": "jhoffman",
                     "repo": "cycada_release",
-                    "stars": 568,
+                    "stars": 567,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -197,7 +197,7 @@
                     "open_issues": 15,
                     "owner": "thuml",
                     "repo": "CDAN",
-                    "stars": 424,
+                    "stars": 423,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -3439,7 +3439,7 @@
                 "open_issues": 4,
                 "owner": "tim-learn",
                 "repo": "SHOT",
-                "stars": 501,
+                "stars": 500,
                 "topics": [
                   "domain-adaptation",
                   "icml-2020",
@@ -4070,7 +4070,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1429,
+                    "stars": 1428,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -5182,7 +5182,7 @@
                     "open_issues": 23,
                     "owner": "lhoyer",
                     "repo": "MIC",
-                    "stars": 296,
+                    "stars": 297,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -5800,7 +5800,7 @@
                     "open_issues": 2,
                     "owner": "donglao",
                     "repo": "PCEDA",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -6060,7 +6060,7 @@
                     "open_issues": 6,
                     "owner": "yxgeee",
                     "repo": "MMT",
-                    "stars": 480,
+                    "stars": 479,
                     "topics": [
                       "cross-domain",
                       "domain-adaptation",
@@ -6093,7 +6093,7 @@
                     "open_issues": 8,
                     "owner": "zhunzhong07",
                     "repo": "ECN",
-                    "stars": 305,
+                    "stars": 304,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -6198,7 +6198,7 @@
                     "open_issues": 27,
                     "owner": "huanghoujing",
                     "repo": "EANet",
-                    "stars": 398,
+                    "stars": 397,
                     "topics": [
                       "cross-domain",
                       "domain-adaptation",
@@ -6987,7 +6987,7 @@
                 "open_issues": 12,
                 "owner": "hendrycks",
                 "repo": "robustness",
-                "stars": 1177,
+                "stars": 1176,
                 "topics": [
                   "computer-vision",
                   "convolutional-neural-networks",
@@ -7018,7 +7018,7 @@
                 "open_issues": 35,
                 "owner": "bupt-ai-cz",
                 "repo": "LLVIP",
-                "stars": 861,
+                "stars": 859,
                 "topics": [
                   "cnn",
                   "computer-vision",
@@ -7094,7 +7094,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3950,
+            "stars": 3948,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -7127,7 +7127,7 @@
             "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1429,
+            "stars": 1428,
             "topics": [
               "artificial-intelligence",
               "benchmark-datasets",
@@ -7159,7 +7159,7 @@
             "open_issues": 7,
             "owner": "easezyc",
             "repo": "deep-transfer-learning",
-            "stars": 962,
+            "stars": 961,
             "topics": [
               "deep-transfer-learning",
               "domain-adaptation",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:59:37.859Z",
+    "last_updated": "2026-11-20T03:53:03.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
@@ -7216,7 +7216,7 @@
       "open_issues": 2,
       "owner": "zhaoxin94",
       "repo": "awesome-domain-adaptation",
-      "stars": 5463,
+      "stars": 5464,
       "topics": [
         "adversarial-learning",
         "awesome-list",
