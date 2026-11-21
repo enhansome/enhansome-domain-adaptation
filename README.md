@@ -129,7 +129,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 **Conference**
 
-* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [\[Tensorflow(Official)\]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) ⭐ 77,631 | 🐛 1,274 | 🌐 Python | 📅 2026-11-16 [\[Pytorch\]](https://github.com/vaibhavnaagar/pixelDA_GAN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2019-08-17
+* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [\[CVPR2017\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [\[Tensorflow(Official)\]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) ⭐ 77,630 | 🐛 1,274 | 🌐 Python | 📅 2026-11-16 [\[Pytorch\]](https://github.com/vaibhavnaagar/pixelDA_GAN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2019-08-17
 * Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [\[CVPR2018\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf) [\[Pytorch(Official)\]](https://github.com/mil-tokyo/MCD_DA) ⭐ 577 | 🐛 27 | 🌐 Python | 📅 2022-10-07
 * CyCADA: Cycle-Consistent Adversarial Domain Adaptation [\[ICML2018\]](http://proceedings.mlr.press/v80/hoffman18a.html) [\[Pytorch(official)\]](https://github.com/jhoffman/cycada_release) ⭐ 567 | 🐛 15 | 🌐 Python | 📅 2021-09-23
 * Conditional Adversarial Domain Adaptation [\[NIPS2018\]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation) [\[Pytorch(official)\]](https://github.com/thuml/CDAN) ⭐ 423 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25  [\[Pytorch(third party)\]](https://github.com/thuml/CDAN) ⭐ 423 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2021-08-25
@@ -139,7 +139,7 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 * Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation [\[ICCV2019\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Drop_to_Adapt_Learning_Discriminative_Features_for_Unsupervised_Domain_Adaptation_ICCV_2019_paper.pdf) [\[PyTorch\]](https://github.com/postBG/DTA.pytorch) ⭐ 163 | 🐛 5 | 🌐 Python | 📅 2023-10-03
 * Generate To Adapt: Aligning Domains using Generative Adversarial Networks [\[CVPR2018\]](https://arxiv.org/abs/1704.01705) [\[Pytorch(Official)\]](https://github.com/yogeshbalaji/Generate_To_Adapt) ⭐ 143 | 🐛 4 | 🌐 Python | 📅 2019-07-05
 * Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation [\[ECCV2020\]](https://arxiv.org/abs/2007.09222) [\[PyTorch\]](https://github.com/JDAI-CV/FADA) ⭐ 142 | 🐛 4 | 🌐 Python | 📅 2020-09-30
-* Unsupervised Domain Adaptation by Backpropagation [\[ICML2015\]](http://proceedings.mlr.press/v37/ganin15.pdf) [\[Caffe(Official)\]](https://github.com/ddtm/caffe/tree/grl) ⭐ 136 | 🐛 12 | 🌐 C++ | 📅 2015-08-28 [\[Tensorflow\]](https://github.com/shucunt/domain_adaptation) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2017-11-09 [\[Pytorch\]](https://github.com/fungtion/DANN) ⭐ 949 | 🐛 0 | 🌐 Python | 📅 2019-07-26
+* Unsupervised Domain Adaptation by Backpropagation [\[ICML2015\]](http://proceedings.mlr.press/v37/ganin15.pdf) [\[Caffe(Official)\]](https://github.com/ddtm/caffe/tree/grl) ⭐ 136 | 🐛 12 | 🌐 C++ | 📅 2015-08-28 [\[Tensorflow\]](https://github.com/shucunt/domain_adaptation) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2017-11-09 [\[Pytorch\]](https://github.com/fungtion/DANN) ⭐ 950 | 🐛 0 | 🌐 Python | 📅 2019-07-26
 * Adversarial Feature Augmentation for Unsupervised Domain Adaptation [\[CVPR2018\]](https://arxiv.org/abs/1711.08561) [\[TensorFlow(Official)\]](https://github.com/ricvolpi/adversarial-feature-augmentation) ⭐ 131 | 🐛 2 | 🌐 Python | 📅 2019-01-08
 * Wasserstein Distance Guided Representation Learning for Domain Adaptation [\[AAAI2018\]](https://arxiv.org/abs/1707.01217) [\[TensorFlow(official)\]](https://github.com/RockySJ/WDGRL) ⭐ 130 | 🐛 1 | 🌐 Python | 📅 2018-02-28 [\[Pytorch\]](https://github.com/jvanvugt/pytorch-domain-adaptation) ⭐ 645 | 🐛 7 | 🌐 Python | 📅 2021-09-21
 * ToAlign: Task-oriented Alignment for Unsupervised Domain Adaptation [\[NeurIPS2021\]](https://arxiv.org/abs/2004.01888) [\[Pytorch\]](https://github.com/microsoft/UDA) ⚠️ Archived
@@ -1287,10 +1287,10 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 # Library
 
-* [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,948 | 🐛 19 | 🌐 Python | 📅 2024-05-10
+* [Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,949 | 🐛 19 | 🌐 Python | 📅 2024-05-10
 * [Dassl: a PyTorch toolbox for domain adaptation and semi-supervised learning](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,428 | 🐛 29 | 🌐 Python | 📅 2023-11-03
 * [deep-transfer-learning: a PyTorch library for deep transfer learning](https://github.com/easezyc/deep-transfer-learning) ⭐ 961 | 🐛 7 | 🌐 Python | 📅 2022-03-03
-* [joliGEN: an integrated framework for training custom generative AI image-to-image models](https://github.com/jolibrain/joliGEN) ⭐ 290 | 🐛 42 | 🌐 Python | 📅 2026-10-27
+* [joliGEN: an integrated framework for training custom generative AI image-to-image models](https://github.com/jolibrain/joliGEN) ⭐ 290 | 🐛 40 | 🌐 Python | 📅 2026-11-20
 * [salad: a Semi-supervised Adaptive Learning Across Domains](https://domainadaptation.org/)
 
 # Lectures and Tutorials
@@ -1299,8 +1299,8 @@ This repo is a collection of AWESOME things about domain adaptation, including p
 
 # Other Resources
 
-* [transferlearning](https://github.com/jindongwang/transferlearning) ⭐ 14,388 | 🐛 23 | 🌐 Python | 📅 2025-02-18
+* [transferlearning](https://github.com/jindongwang/transferlearning) ⭐ 14,387 | 🐛 23 | 🌐 Python | 📅 2025-02-18
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
