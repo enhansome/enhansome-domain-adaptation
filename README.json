@@ -134,7 +134,7 @@
                     "open_issues": 1274,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77630,
+                    "stars": 77631,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:48:49.304Z",
+    "last_updated": "2026-11-22T02:51:41.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
