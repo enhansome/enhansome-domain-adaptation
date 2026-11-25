@@ -131,10 +131,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-16T22:46:00Z",
-                    "open_issues": 1272,
+                    "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77635,
+                    "stars": 77634,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -5120,7 +5120,7 @@
                     "id": 236876113,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-08T11:15:48Z",
+                    "last_commit": "2026-11-24T13:03:02Z",
                     "open_issues": 9,
                     "owner": "layumi",
                     "repo": "Seg-Uncertainty",
@@ -5817,7 +5817,7 @@
                     "id": 236876113,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-08T11:15:48Z",
+                    "last_commit": "2026-11-24T13:03:02Z",
                     "open_issues": 9,
                     "owner": "layumi",
                     "repo": "Seg-Uncertainty",
@@ -6887,7 +6887,7 @@
                     "id": 301911992,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2021-02-24T05:37:54Z",
+                    "last_commit": "2026-11-24T11:14:45Z",
                     "open_issues": 2,
                     "owner": "liyxi",
                     "repo": "AdaptNAS",
@@ -7182,7 +7182,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-20T08:40:15Z",
-            "open_issues": 40,
+            "open_issues": 42,
             "owner": "jolibrain",
             "repo": "joliGEN",
             "stars": 290,
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T06:47:55.352Z",
+    "last_updated": "2026-11-25T05:15:26.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
