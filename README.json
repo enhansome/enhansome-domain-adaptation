@@ -2362,7 +2362,7 @@
               "description": "[Pytorch] [Project]",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Official implementation of PCS in essay \"Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation\"",
                 "homepage": "http://xyue.io/pcs-fuda/",
                 "id": 353560811,
@@ -7185,7 +7185,7 @@
             "open_issues": 42,
             "owner": "jolibrain",
             "repo": "joliGEN",
-            "stars": 290,
+            "stars": 291,
             "topics": [
               "augmented-reality",
               "deep-learning",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T05:15:26.533Z",
+    "last_updated": "2026-11-26T04:43:32.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
