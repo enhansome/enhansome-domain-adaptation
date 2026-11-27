@@ -4070,7 +4070,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1427,
+                    "stars": 1428,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -7127,7 +7127,7 @@
             "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1427,
+            "stars": 1428,
             "topics": [
               "artificial-intelligence",
               "benchmark-datasets",
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T04:43:32.693Z",
+    "last_updated": "2026-11-27T04:49:47.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
