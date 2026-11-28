@@ -134,7 +134,7 @@
                     "open_issues": 1271,
                     "owner": "tensorflow",
                     "repo": "models",
-                    "stars": 77634,
+                    "stars": 77636,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:47:41.594Z"
@@ -7182,7 +7182,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-20T08:40:15Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "jolibrain",
             "repo": "joliGEN",
             "stars": 291,
@@ -7204,7 +7204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T04:49:47.577Z",
+    "last_updated": "2026-11-28T04:34:36.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of AWESOME things about domain adaptation",
